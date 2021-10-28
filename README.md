@@ -11,7 +11,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 
 | Abbreviation | Definition               | Usage                                            | Example                                                                            |
 |--------------|--------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|
-| WIP          | Work In Progress         | do not merge yet                                 |                                                                                    |
+| WIP          | Work In Progress         | do not merge yet                                 | [GitLab](https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/) |
 | LGTM         | Looks Good To Me         |                                                  | [Cardidy](https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899)   |
 | ACK          | ACKnowledgement          | agreed/accepted change                           | [Humanizer](https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977) |
 | NACK/NAK     | Negative ACKnowledgement | disagreed with change and/or concept             |                                                                                    |
@@ -19,7 +19,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | UTACK        | UnTested ACKnowledgment  | agreed/accepted change in theory                 |                                                                                    |
 | CACK         | Concept ACKnowledgement  | agreed/accepted in general                       |                                                                                    |
 | RFC          | Request For Comments     |                                                  |                                                                                    |
-| AFAIK        | As Far As I Know         |                                                  |                                                                                    |
+| AFAIK        | As Far As I Know         |                                                  | [Diffract](https://github.com/d-edge/Diffract/issues/1#issuecomment-946781621)    |
 | AFAICT       | As Far As I Can Tell     |                                                  |                                                                                    |
 | IIRC         | If I Recall Correctly    |                                                  |                                                                                    |
 | IANAL        | I Am Not A Lawyer        | used often before talking about licensing issues |                                                                                    |
