@@ -29,7 +29,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | CCW          | Comment and Criticism Welcome | | 
 | YMMV | Your Mileage May Vary | |
 | FOSS/FLOSS | Free & Open Source Software | that is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software | |
-| PR | Pull Request | tell others about changes you've pushed to a branch in a repository | [GitHub](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review) |
+| PR | Pull Request | tell others about changes you've pushed to a branch in a repository | [/r/vuejs](https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/) |
 | MR | Merge Request | see PR | |
 | NIH | Not Invented Here | | |
 | DRY | Don't Repeat Yourself | | |
