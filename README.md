@@ -26,7 +26,16 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | CMV          | Change My View           |                                                  |                                                                                    |
 | ITT          | In This Thread           |                                                  |                                                                                    |
 | IMO          | In My Opinion            |                                                  |                                                                                    |
-| CCW          | Comment and Criticism Welcome |                                             |                                                                                    |
+| CCW          | Comment and Criticism Welcome | | 
+| YMMV | Your Mileage May Vary | |
+| FOSS/FLOSS | Free & Open Source Software | that is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software | |
+| PR | Pull Request | tell others about changes you've pushed to a branch in a repository | [GitHub](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review) |
+| MR | Merge Request | see PR | |
+| NIH | Not Invented Here | | |
+| DRY | Don't Repeat Yourself | | |
+| KISS | Keep It Simple, Stupid | | |
+| YAGNI | You Ain't Gonna Need It | | |
+
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
