@@ -35,6 +35,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | DRY | Don't Repeat Yourself | | |
 | KISS | Keep It Simple, Stupid | | |
 | YAGNI | You Ain't Gonna Need It | | |
+| FYI | For Your Information | | [ArduPilot](https://github.com/ArduPilot/MissionPlanner/issues/2216)
 
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
