@@ -37,6 +37,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | YAGNI | You Ain't Gonna Need It | | |
 | FYI | For Your Information | | [ArduPilot](https://github.com/ArduPilot/MissionPlanner/issues/2216), [F#'s slack](https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400)
 | NP | No Problem | no stress, it is fine | |
+| TBD | To Be Defined/Done | | [Software Craft Website](https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66) |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
