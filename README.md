@@ -40,5 +40,5 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | TBD | To Be Defined/Done | | [Software Craft Website](https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66) |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
-- [Bitcoin hacker lingo (stolen from TCP](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
+- [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
 - [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
