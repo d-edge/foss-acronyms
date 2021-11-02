@@ -39,6 +39,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | NP | No Problem | no stress, it is fine | |
 | TBD | To Be Defined/Done | | [Software Craft Website](https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66) |
 | ICYMI | In Case You Missed It | | |
+| CoC | Code of Conduct | | |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
