@@ -32,6 +32,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | PR | Pull Request | tell others about changes you've pushed to a branch in a repository | [/r/vuejs](https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/) |
 | MR | Merge Request | see PR | |
 | NIH | Not Invented Here |  NIH Syndrome is a decision-making error where we tend to value our own ideas above those conceived by people outside of our group | [learnosity](https://learnosity.com/not-invented-here-syndrome-explained/) |
+| SOLID | Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion | 5 (of many) software design principles, promoted by Robert "Uncle Bob" Martin | [wikipedia](https://en.wikipedia.org/wiki/SOLID) | 
 | DRY | Don't Repeat Yourself | | |
 | KISS | Keep It Simple, Stupid | | |
 | YAGNI | You Ain't Gonna Need It | | |
