@@ -41,7 +41,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | TBD | To Be Defined/Done | | [Software Craft Website](https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66) |
 | ICYMI | In Case You Missed It | | |
 | CoC | Code of Conduct | | |
-| LOC | Lines Of Code | | |
+| LOC/SLOC | (Source) Lines Of Code | | |
 | TIL | Today I Learned | TIL that TIL is Today I Learned | [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/) |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
