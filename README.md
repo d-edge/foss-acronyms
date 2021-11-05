@@ -1,6 +1,6 @@
 # FOSS Community Acronyms
 
-List of abbreviations used within the FOSS community, and their definitions and usages.
+List of abbreviations used within the FOSS community, and their definitions and usages. This list inludes more common english acronyms popular on internet.
 
 ## Contributing
 
