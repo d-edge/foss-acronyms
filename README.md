@@ -42,6 +42,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | ICYMI | In Case You Missed It | | |
 | CoC | Code of Conduct | | |
 | LOC | Lines Of Code | | |
+| TIL | Today I Learned | TIL that TIL is Today I Learned | [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/) |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
