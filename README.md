@@ -31,6 +31,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | FOSS/FLOSS | Free & Open Source Software | that is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software | |
 | PR | Pull Request | tell others about changes you've pushed to a branch in a repository | [/r/vuejs](https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/) |
 | MR | Merge Request | see PR | |
+| MVP | Minimum Viable Product | A prototype version of a product with the minimum required feature set | |
 | NIH | Not Invented Here |  NIH Syndrome is a decision-making error where we tend to value our own ideas above those conceived by people outside of our group | [learnosity](https://learnosity.com/not-invented-here-syndrome-explained/) |
 | SOLID | Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion | 5 (of many) software design principles, promoted by Robert "Uncle Bob" Martin | [wikipedia](https://en.wikipedia.org/wiki/SOLID) | 
 | DRY | Don't Repeat Yourself | | |
