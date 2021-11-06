@@ -12,7 +12,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | Abbreviation | Definition               | Usage                                            | Example                                                                            |
 |--------------|--------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|
 | WIP          | Work In Progress         | do not merge yet                                 | [GitLab](https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/) |
-| LGTM         | Looks Good To Me         |                                                  | [Cardidy](https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899)   |
+| LGTM         | Looks Good To Me         |                                                  | [Cardidy](https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899), [Simple Icons](https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702) |
 | ACK          | ACKnowledgement          | agreed/accepted change                           | [Humanizer](https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977) |
 | NACK/NAK     | Negative ACKnowledgement | disagreed with change and/or concept             |                                                                                    |
 | TACK         | Tested ACKnowledgment    | agreed/accepted change in practice               |                                                                                    |
