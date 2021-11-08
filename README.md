@@ -52,11 +52,11 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 ## Communities, Companies, Organizations
 
 
-| Abbreviation | Meaning | URL
+| Abbreviation | Meaning | URL | What they do 
 |-|-|-
-| FSF | Free Software Foundation | https://www.fsf.org
-| GNU | Collection of free software, a license | https://gnu.org
-| MS, M$ | Microsoft | https://microsoft.com
-| SO | StackOverflow | https://stackoverflow.com
-| GH | GitHub | https://github.com
-| OSI | Open Source Initiative | https://opensource.org
+| FSF | Free Software Foundation | https://www.fsf.org | Oversee a number of open source organizations
+| GNU | Collection of free software, a license | https://gnu.org | program of FSF, develops many linux tools and a commonly used license
+| MS, M$ | Microsoft | https://microsoft.com | Makers of windows, azure, vscode, and other tools that might be relevent to developers
+| SO | StackOverflow | https://stackoverflow.com | Popular question and answer website
+| GH | GitHub | https://github.com | Source code host, owned by Microsoft
+| OSI | Open Source Initiative | https://opensource.org | Defining 'Open Source'
