@@ -48,3 +48,11 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
 - [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
+
+# Tools, Software, Stacks
+
+| Abbreviation | Definition | URL
+|-|-|-
+| LAMP | Linux, Apache, MySQL, PHP (Perl or Python) | None
+| MEAN | MongoDB, Express.js, Angular.js, Node.js | None
+| MERN | MongoDB, Express.js, React.js, Node.js | None
