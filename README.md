@@ -44,6 +44,8 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | CoC | Code of Conduct | | |
 | LOC/SLOC | (Source) Lines Of Code | | |
 | TIL | Today I Learned | TIL that TIL is Today I Learned | [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/) |
+| OOP | Object Oriented Programming | | |
+| FP | Functional Programming | | |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
