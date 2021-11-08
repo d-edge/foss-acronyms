@@ -48,3 +48,18 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
 - [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
+
+## Communities, Companies, Organizations
+
+
+| Abbreviation | Meaning | URL
+|-|-|-
+| FSF | Free Software Foundation | https://www.fsf.org
+| GNU | Collection of free software, a license | https://gnu.org
+| MS, M$ | Microsoft | https://microsoft.com
+| SO | StackOverflow | https://stackoverflow.com
+| GH | GitHub | https://github.com
+
+# Tools, Software, Stacks
+
+**TODO**
