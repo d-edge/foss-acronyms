@@ -53,7 +53,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 
 
 | Abbreviation | Meaning | URL | What they do 
-|-|-|-
+|-|-|-|-
 | FSF | Free Software Foundation | https://www.fsf.org | Oversee a number of open source organizations
 | GNU | Collection of free software, a license | https://gnu.org | program of FSF, develops many linux tools and a commonly used license
 | MS | Microsoft | https://microsoft.com | Makers of windows, azure, vscode, and other tools that might be relevent to developers
