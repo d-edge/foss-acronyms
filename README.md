@@ -44,6 +44,8 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | CoC | Code of Conduct | | |
 | LOC/SLOC | (Source) Lines Of Code | Above each file on GitHub you can find something like `50 lines (43 sloc)`. The difference is the empty lines. | [GitHub](https://github.com/d-edge/foss-acronyms/blob/main/README.md) |
 | TIL | Today I Learned | TIL that TIL is Today I Learned | [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/) |
+| OOP | Object Oriented Programming | | |
+| FP | Functional Programming | | |
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin's CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#peer-review)
