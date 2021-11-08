@@ -60,7 +60,3 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | SO | StackOverflow | https://stackoverflow.com
 | GH | GitHub | https://github.com
 | OSI | Open Source Initiative | https://opensource.org
-
-# Tools, Software, Stacks
-
-**TODO**
