@@ -51,3 +51,15 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 - [Bitcoin's CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#peer-review)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
 - [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
+
+## Communities, Companies, Organizations
+
+
+| Abbreviation | Meaning | URL | What they do 
+|-|-|-|-
+| FSF | Free Software Foundation | https://www.fsf.org | Oversee a number of open source organizations
+| GNU | Collection of free software, a license | https://gnu.org | program of FSF, develops many linux tools and a commonly used license
+| MS | Microsoft | https://microsoft.com | Makers of windows, azure, vscode, and other tools that might be relevent to developers
+| SO | StackOverflow | https://stackoverflow.com | Popular question and answer website
+| GH | GitHub | https://github.com | Source code host, owned by Microsoft
+| OSI | Open Source Initiative | https://opensource.org | Defining 'Open Source'
