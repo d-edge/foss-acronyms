@@ -8,7 +8,6 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 
 ## Acronyms
 
-
 | Abbreviation | Definition               | Usage                                            | Example                                                                            |
 |--------------|--------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|
 | WIP          | Work In Progress         | do not merge yet                                 | [GitLab](https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/) |
@@ -47,13 +46,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | OOP | Object Oriented Programming | | |
 | FP | Functional Programming | | |
 
-- [The Jargon File](http://www.catb.org/jargon/html/index.html)
-- [Bitcoin's CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#peer-review)
-- [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
-- [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
-
 ## Communities, Companies, Organizations
-
 
 | Abbreviation | Meaning | URL | What they do 
 |-|-|-|-
@@ -63,3 +56,19 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | SO | StackOverflow | https://stackoverflow.com | Popular question and answer website
 | GH | GitHub | https://github.com | Source code host, owned by Microsoft
 | OSI | Open Source Initiative | https://opensource.org | Defining 'Open Source'
+
+## Tools, Software, Stacks
+
+| Abbreviation | Definition |
+|-|-|
+| LAMP | Linux, Apache, MySQL, PHP (Perl or Python)
+| LEMP | Liux, Nginx Server, MySQL,  PHP (Perl or Python)
+| MEAN | MongoDB, Express.js, Angular.js, Node.js
+| MERN | MongoDB, Express.js, React.js, Node.js
+| SAFE | Suave (or Saturn), Azure, Fable, Elmish
+
+
+- [The Jargon File](http://www.catb.org/jargon/html/index.html)
+- [Bitcoin's CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#peer-review)
+- [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
+- [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
