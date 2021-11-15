@@ -57,12 +57,12 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | GH | GitHub | https://github.com | Source code host, owned by Microsoft
 | OSI | Open Source Initiative | https://opensource.org | Defining 'Open Source'
 
-## Tools, Software, Stacks
+## Stacks
 
 | Abbreviation | Definition |
 |-|-|
 | LAMP | Linux, Apache, MySQL, PHP (Perl or Python)
-| LEMP | Liux, Nginx Server, MySQL,  PHP (Perl or Python)
+| LEMP | Linux, Nginx Server, MySQL,  PHP (Perl or Python)
 | MEAN | MongoDB, Express.js, Angular.js, Node.js
 | MERN | MongoDB, Express.js, React.js, Node.js
 | SAFE | Suave (or Saturn), Azure, Fable, Elmish
