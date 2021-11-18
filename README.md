@@ -1,5 +1,7 @@
 # FOSS Community Acronyms
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 List of abbreviations used within the FOSS community, and their definitions and usages. This list inludes more common english acronyms popular on internet.
 
 ## Contributing
