@@ -48,7 +48,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | TIL | Today I Learned | TIL that TIL is Today I Learned | [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/) |
 | OOP | Object Oriented Programming | | |
 | FP | Functional Programming | | |
-| CLA | Contributor License Agreement | | [Play Framework](https://github.com/playframework/playframework/pull/616#issuecomment-11394747) |
+| CLA | Contributor License Agreement | | [Play Framework](https://github.com/playframework/playframework/pull/616#issuecomment-11394747), [Microsoft](https://cla.opensource.microsoft.com/) |
 
 ## Communities, Companies, Organizations
 
