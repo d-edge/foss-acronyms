@@ -49,6 +49,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | OOP | Object Oriented Programming | | |
 | FP | Functional Programming | | |
 | CLA | Contributor License Agreement | | [Play Framework](https://github.com/playframework/playframework/pull/616#issuecomment-11394747), [Microsoft](https://cla.opensource.microsoft.com/) |
+| ETA | Estimated Time of Arrival | To ask when something will be ready | [/r/fsharp](https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/)
 
 ## Communities, Companies, Organizations
 
@@ -63,13 +64,13 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 
 ## Stacks
 
-| Abbreviation | Definition |
-|-|-|
+| Abbreviation | Definition | Example 
+|-|-|-|
 | LAMP | Linux, Apache, MySQL, PHP (Perl or Python)
 | LEMP | Linux, Nginx Server, MySQL,  PHP (Perl or Python)
 | MEAN | MongoDB, Express.js, Angular.js, Node.js
 | MERN | MongoDB, Express.js, React.js, Node.js
-| SAFE | Suave (or Saturn), Azure, Fable, Elmish
+| SAFE | Suave (or Saturn), Azure, Fable, Elmish | [/r/fsharp](https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/)
 
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
