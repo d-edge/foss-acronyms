@@ -12,7 +12,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 
 | Abbreviation | Definition               | Usage                                            | Example                                                                            |
 |--------------|--------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|
-| WIP          | Work In Progress         | do not merge yet                                 | [GitLab](https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/) |
+| <h5>WIP</h5>          | Work In Progress         | do not merge yet                                 | [GitLab](https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/) |
 | ACK          | ACKnowledgement          | agreed/accepted change. A loose ACK can be confusing. It's best to avoid them unless it's a documentation/comment only change in which case there is nothing to test/verify; therefore the tested/untested distinction is not there | [Humanizer](https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977), [Bitcoin](https://github.com/bitcoin/bitcoin/issues/6100) |
 | NACK/NAK     | Negative ACKnowledgement | disagree with the code changes/concept. Should be accompanied by an explanation | [Bitcoin](https://github.com/bitcoin/bitcoin/issues/6100) |
 | tested ACK         | Tested ACKnowledgment    |  reviewed the code changes and have verified the functionality or bug fix | [Bitcoin](https://github.com/bitcoin/bitcoin/issues/6100) |
