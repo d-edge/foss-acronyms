@@ -51,6 +51,8 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | CLA | Contributor License Agreement | | [Play Framework](https://github.com/playframework/playframework/pull/616#issuecomment-11394747), [Microsoft](https://cla.opensource.microsoft.com/) |
 | ETA | Estimated Time of Arrival | To ask when something will be ready | [/r/fsharp](https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/)
 | FOUC | Flash Of Unstyled Content | When a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet | [md-block](https://github.com/leaverou/md-block#minimizing-fouc), [Wikipedia](https://en.wikipedia.org/wiki/Flash_of_unstyled_content)
+| VCS | Version Control Software | a way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. Git, SVN or Mercurial are VCS | [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/0), [softwaretestinghelp.com](https://www.softwaretestinghelp.com/version-control-software/)
+| SCM | Source Code Management | see VCS | |
 | OP | Original Post/Original Poster | Original Poster (who started a thread) or Original Post (the message that started it) | [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/), [StackExchange](https://english.stackexchange.com/questions/424366/does-op-mean-original-poster-or-original-post)
 
 ## Communities, Companies, Organizations
