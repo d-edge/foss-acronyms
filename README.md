@@ -75,6 +75,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | MEAN | MongoDB, Express.js, Angular.js, Node.js
 | MERN | MongoDB, Express.js, React.js, Node.js
 | SAFE | Suave (or Saturn), Azure, Fable, Elmish | [/r/fsharp](https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/)
+| ELK | Elasticsearch, Logstash, and Kibana | [What is the ELK Stack?](https://www.elastic.co/what-is/elk-stack)
 
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
