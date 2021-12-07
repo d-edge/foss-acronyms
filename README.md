@@ -38,7 +38,6 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | SRP | Single-Responsibility Principle | The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. [wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle) | [/r/csharp/](https://www.reddit.com/r/csharp/comments/qv490z/using_a_tuple_to_initialize_properties_in_the/hku5pw6/) |
 | DRY | Don't Repeat Yourself | This is used in couple with modular programming, and emphasize on code reusability | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) |
 | KISS | Keep It Simple, Stupid | KISS is a design principle stating that most systems work fine if it is built/kept simple than making the system complex.  |[Wikipedia](https://en.wikipedia.org/wiki/KISS_principle#:~:text=KISS%2C%20an%20acronym%20for%20keep,unnecessary%20complexity%20should%20be%20avoided.) |
-
 | YAGNI | You Ain't Gonna Need It | | |
 | FYI | For Your Information | | [ArduPilot](https://github.com/ArduPilot/MissionPlanner/issues/2216), [F#'s slack](https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400)
 | NP | No Problem | no stress, it is fine | |
