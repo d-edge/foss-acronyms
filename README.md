@@ -36,7 +36,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | NIH | Not Invented Here |  NIH Syndrome is a decision-making error where we tend to value our own ideas above those conceived by people outside of our group | [learnosity](https://learnosity.com/not-invented-here-syndrome-explained/) |
 | SOLID | Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion | 5 (of many) software design principles, promoted by Robert "Uncle Bob" Martin | [wikipedia](https://en.wikipedia.org/wiki/SOLID) | 
 | SRP | Single-Responsibility Principle | The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. [wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle) | [/r/csharp/](https://www.reddit.com/r/csharp/comments/qv490z/using_a_tuple_to_initialize_properties_in_the/hku5pw6/) |
-| DRY | Don't Repeat Yourself | | |
+| DRY | Don't Repeat Yourself | This is used in couple with modular programming, and emphasize on code reusability | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) |
 | KISS | Keep It Simple, Stupid | | |
 | YAGNI | You Ain't Gonna Need It | | |
 | FYI | For Your Information | | [ArduPilot](https://github.com/ArduPilot/MissionPlanner/issues/2216), [F#'s slack](https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400)
