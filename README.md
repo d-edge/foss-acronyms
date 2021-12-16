@@ -54,7 +54,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | VCS | Version Control Software | a way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. Git, SVN or Mercurial are VCS | [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/0), [softwaretestinghelp.com](https://www.softwaretestinghelp.com/version-control-software/)
 | SCM | Source Code Management | see VCS | |
 | OP | Original Post/Original Poster | Original Poster (who started a thread) or Original Post (the message that started it) | [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/), [StackExchange](https://english.stackexchange.com/questions/424366/does-op-mean-original-poster-or-original-post)
-| RTFM | Read The F~~uckin~~g Manual | Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).  | [XKCD comic](https://xkcd.com/293/), [Github commits](https://github.com/search?q=RTFM&type=Commits)
+| RTFM | Read The F*****g Manual | Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).  | [XKCD comic](https://xkcd.com/293/), [Github commits](https://github.com/search?q=RTFM&type=Commits)
 
 ## Communities, Companies, Organizations
 
