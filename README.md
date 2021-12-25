@@ -23,7 +23,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | AFAIK        | As Far As I Know         |                                                  | [Diffract](https://github.com/d-edge/Diffract/issues/1#issuecomment-946781621)    |
 | AFAICT       | As Far As I Can Tell     |                                                  |                                                                                    |
 | IIRC         | If I Recall Correctly    |                                                  |                                                                                    |
-| IANAL        | I Am Not A Lawyer        | used often before talking about licensing issues | [HackerNews](https://news.ycombinator.com/item?id=29080575) |
+| IANAL        | I Am Not A Lawyer        | used often before talking about licensing issues | [HackerNews](https://news.ycombinator.com/item?id=29080575), [CUPS](https://github.com/OpenPrinting/cups/issues/315#issue-1088620780) |
 | CMV          | Change My View           |                                                  |                                                                                    |
 | ITT          | In This Thread           |                                                  |                                                                                    |
 | IMO          | In My Opinion            |                                                  |                                                                                    |
