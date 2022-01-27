@@ -4,6 +4,8 @@
 
 List of abbreviations used within the FOSS community, and their definitions and usages. This list inludes more common english acronyms popular on internet.
 
+Maintained by folks at [D-EDGE](https://www.d-edge.com/).
+
 ## Contributing
 
 If you have a github account, you can [click here](https://github.com/d-edge/foss-acronyms/edit/main/README.md) to edit this file.
