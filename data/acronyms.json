@@ -260,7 +260,7 @@
     {
         "Abbreviation": "BBL",
         "Definition": "Brown Bag Lunch",
-        "Usage": "",
-        "Example": "It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic."
+        "Usage": "It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic.",
+        "Example": "[brownbaglunch on Github (French)](https://github.com/brownbaglunch/BrownBagLunch)"
     }
 ]
