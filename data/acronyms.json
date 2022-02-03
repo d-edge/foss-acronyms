@@ -3,7 +3,7 @@
         "Abbreviation": "WIP",
         "Definition": "Work In Progress",
         "Usage": "do not merge yet",
-        "Example": "[GitLab](https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/)"
+        "Example": "<a href=\"https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/\">GitLab's blog</a>"
     },
     {
         "Abbreviation": "ACK",
