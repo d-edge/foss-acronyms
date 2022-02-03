@@ -57,6 +57,7 @@ If you have a github account, you can [click here](https://github.com/d-edge/fos
 | SCM | Source Code Management | see VCS | |
 | OP | Original Post/Original Poster | Original Poster (who started a thread) or Original Post (the message that started it) | [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/), [StackExchange](https://english.stackexchange.com/questions/424366/does-op-mean-original-poster-or-original-post)
 | RTFM | Read The F*****g Manual | Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).  | [XKCD comic](https://xkcd.com/293/), [Github commits](https://github.com/search?q=RTFM&type=Commits)
+| BBL          | Brown Bag Lunch           |                                                 | It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic.
 
 ## Communities, Companies, Organizations
 
