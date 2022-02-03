@@ -256,5 +256,11 @@
         "Definition": "Read The F*****g Manual",
         "Usage": "Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).",
         "Example": "<a href=\"https://xkcd.com/293/\">XKCD comic</a>, <a href=\"https://github.com/search?q=RTFM&type=Commits\">Github commits</a>"
+    },
+    {
+        "Abbreviation": "BBL",
+        "Definition": "Brown Bag Lunch",
+        "Usage": "It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic.",
+        "Example": "<a href=\"https://github.com/brownbaglunch/BrownBagLunch\">brownbaglunch on Github (French)</a>"
     }
 ]
