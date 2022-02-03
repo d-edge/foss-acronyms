@@ -22,11 +22,11 @@
     {
         "Abbreviation": "SAFE",
         "Definition": "Suave (or Saturn), Azure, Fable, Elmish",
-        "Example": "[/r/fsharp](https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/)"
+        "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
     },
     {
         "Abbreviation": "ELK",
         "Definition": "Elasticsearch, Logstash, and Kibana",
-        "Example": "[What is the ELK Stack?](https://www.elastic.co/what-is/elk-stack)"
+        "Example": "<a href=\"https://www.elastic.co/what-is/elk-stack\">What is the ELK Stack?</a>"
     }
 ]
