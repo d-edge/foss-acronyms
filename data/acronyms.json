@@ -2,43 +2,43 @@
     {
         "Abbreviation": "WIP",
         "Definition": "Work In Progress",
-        "Usage": "do not merge yet",
+        "Usage": "Do not merge yet",
         "Example": "<a href=\"https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/\">GitLab's blog</a>"
     },
     {
         "Abbreviation": "ACK",
         "Definition": "ACKnowledgement",
-        "Usage": "agreed/accepted change. A loose ACK can be confusing. It's best to avoid them unless it's a documentation/comment only change in which case there is nothing to test/verify; therefore the tested/untested distinction is not there",
+        "Usage": "Agreed/accepted change. A loose ACK can be confusing. It's best to avoid them unless it's a documentation/comment only change in which case there is nothing to test/verify; therefore the tested/untested distinction is not there",
         "Example": "<a href=\"https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977\">Humanizer</a>, <a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
     },
     {
         "Abbreviation": "NACK/NAK",
         "Definition": "Negative ACKnowledgement",
-        "Usage": "disagree with the code changes/concept. Should be accompanied by an explanation",
+        "Usage": "Disagree with the code changes/concept. Should be accompanied by an explanation",
         "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
     },
     {
         "Abbreviation": "tested ACK",
         "Definition": "Tested ACKnowledgment",
-        "Usage": "reviewed the code changes and have verified the functionality or bug fix",
+        "Usage": "Reviewed the code changes and have verified the functionality or bug fix",
         "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
     },
     {
         "Abbreviation": "utACK",
         "Definition": "UnTested ACKnowledgment",
-        "Usage": "reviewed and agree with the code changes but haven't actually tested them",
+        "Usage": "Reviewed and agree with the code changes but haven't actually tested them",
         "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
     },
     {
         "Abbreviation": "Concept ACK",
         "Definition": "Concept ACKnowledgement",
-        "Usage": "agree with the idea and overall direction, but haven't reviewed the code changes or tested them",
+        "Usage": "Agree with the idea and overall direction, but haven't reviewed the code changes or tested them",
         "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
     },
     {
         "Abbreviation": "LGTM",
         "Definition": "Looks Good To Me",
-        "Usage": "see ACK",
+        "Usage": "See ACK",
         "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>"
     },
     {
@@ -68,7 +68,7 @@
     {
         "Abbreviation": "IANAL",
         "Definition": "I Am Not A Lawyer",
-        "Usage": "used often before talking about licensing issues",
+        "Usage": "Used often before talking about licensing issues",
         "Example": "<a href=\"https://news.ycombinator.com/item?id=29080575\">HackerNews</a>, <a href=\"https://github.com/OpenPrinting/cups/issues/315#issue-1088620780\">CUPS</a>"
     },
     {
@@ -104,13 +104,13 @@
     {
         "Abbreviation": "FOSS/FLOSS",
         "Definition": "Free & Open Source Software",
-        "Usage": "that is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software",
-        "Example": ""
+        "Usage": "That is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software",
+        "Example": "<a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software#Usage\">FOSS/FLOSS</a>"
     },
     {
         "Abbreviation": "PR",
         "Definition": "Pull Request",
-        "Usage": "tell others about changes you've pushed to a branch in a repository",
+        "Usage": "Tell others about changes you've pushed to a branch in a repository",
         "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
     },
     {
@@ -122,7 +122,7 @@
     {
         "Abbreviation": "MVP",
         "Definition": "Minimum Viable Product",
-        "Usage": "a prototype version of a product with the minimum required feature set",
+        "Usage": "A prototype version of a product with the minimum required feature set",
         "Example": "<a href=\"https://en.wikipedia.org/wiki/Minimum_viable_product\">Wikipedia</a>"
     },
     {
@@ -135,7 +135,7 @@
         "Abbreviation": "SOLID",
         "Definition": "Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion",
         "Usage": "5 (of many) software design principles, promoted by Robert \"Uncle Bob\" Martin",
-        "Example": "<a href=\"https://en.wikipedia.org/wiki/SOLID\">wikipedia</a>"
+        "Example": "<a href=\"https://en.wikipedia.org/wiki/SOLID\">Wikipedia</a>"
     },
     {
         "Abbreviation": "SRP",
@@ -242,7 +242,7 @@
     {
         "Abbreviation": "SCM",
         "Definition": "Source Code Management",
-        "Usage": "see VCS",
+        "Usage": "See VCS",
         "Example": ""
     },
     {
