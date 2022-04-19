@@ -262,5 +262,11 @@
         "Definition": "Brown Bag Lunch",
         "Usage": "It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic.",
         "Example": "<a href=\"https://github.com/brownbaglunch/BrownBagLunch\">brownbaglunch on Github (French)</a>"
+    },
+    {
+        "Abbreviation": "ASAP",
+        "Definition": "As Soon As Possible",
+        "Usage": "It is an informal way to say that who wrote it is busy at the moment and will reply as soon as he can.",
+        "Example": "<a href=\"https://www.britannica.com/dictionary/ASAP\">Britannica</a>"
     }
 ]
