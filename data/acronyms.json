@@ -116,7 +116,7 @@
     {
         "Abbreviation": "MR",
         "Definition": "Merge Request",
-        "Usage": "see PR",
+        "Usage": "See PR",
         "Example": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "Abbreviation": "NP",
         "Definition": "No Problem",
-        "Usage": "no stress, it is fine",
+        "Usage": "No stress, it is fine",
         "Example": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "Abbreviation": "VCS",
         "Definition": "Version Control Software",
-        "Usage": "a way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. Git, SVN or Mercurial are VCS",
+        "Usage": "A way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. Git, SVN or Mercurial are VCS",
         "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/0\">/r/ProgrammerHumor</a>, <a href=\"https://www.softwaretestinghelp.com/version-control-software/\">softwaretestinghelp.com</a>"
     },
     {
