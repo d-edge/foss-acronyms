@@ -1,32 +1,32 @@
 [
-    {
-        "Abbreviation": "LAMP",
-        "Definition": "Linux, Apache, MySQL, PHP (Perl or Python)",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "LEMP",
-        "Definition": "Linux, Nginx Server, MySQL,  PHP (Perl or Python)",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "MEAN",
-        "Definition": "MongoDB, Express.js, Angular.js, Node.js",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "MERN",
-        "Definition": "MongoDB, Express.js, React.js, Node.js",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "SAFE",
-        "Definition": "Suave (or Saturn), Azure, Fable, Elmish",
-        "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
-    },
-    {
-        "Abbreviation": "ELK",
-        "Definition": "Elasticsearch, Logstash, and Kibana",
-        "Example": "<a href=\"https://www.elastic.co/what-is/elk-stack\">What is the ELK Stack?</a>"
-    }
+  {
+    "Abbreviation": "ELK",
+    "Definition": "Elasticsearch, Logstash, and Kibana",
+    "Example": "<a href=\"https://www.elastic.co/what-is/elk-stack\">What is the ELK Stack?</a>"
+  },
+  {
+    "Abbreviation": "LAMP",
+    "Definition": "Linux, Apache, MySQL, PHP (Perl or Python)",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "LEMP",
+    "Definition": "Linux, Nginx Server, MySQL,  PHP (Perl or Python)",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "MEAN",
+    "Definition": "MongoDB, Express.js, Angular.js, Node.js",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "MERN",
+    "Definition": "MongoDB, Express.js, React.js, Node.js",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "SAFE",
+    "Definition": "Suave (or Saturn), Azure, Fable, Elmish",
+    "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
+  }
 ]
