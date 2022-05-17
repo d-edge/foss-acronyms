@@ -1,38 +1,38 @@
 [
-{
-"Abbreviation": "FSF",
-"Meaning": "Free Software Foundation",
-"URL": "https://www.fsf.org",
-"What they do": "Oversee a number of open source organizations"
-},
-{
-"Abbreviation": "GNU",
-"Meaning": "Collection of free software, a license",
-"URL": "https://gnu.org",
-"What they do": "program of FSF, develops many linux tools and a commonly used license"
-},
-{
-"Abbreviation": "MS",
-"Meaning": "Microsoft",
-"URL": "https://microsoft.com",
-"What they do": "Makers of windows, azure, vscode, and other tools that might be relevent to developers"
-},
-{
-"Abbreviation": "SO",
-"Meaning": "StackOverflow",
-"URL": "https://stackoverflow.com",
-"What they do": "Popular question and answer website"
-},
-{
-"Abbreviation": "GH",
-"Meaning": "GitHub",
-"URL": "https://github.com",
-"What they do": "Source code host, owned by Microsoft"
-},
-{
-"Abbreviation": "OSI",
-"Meaning": "Open Source Initiative",
-"URL": "https://opensource.org",
-"What they do": "Defining 'Open Source'"
-}
+  {
+    "Abbreviation": "FSF",
+    "Meaning": "Free Software Foundation",
+    "URL": "https://www.fsf.org",
+    "What they do": "Oversee a number of open source organizations"
+  },
+  {
+    "Abbreviation": "GH",
+    "Meaning": "GitHub",
+    "URL": "https://github.com",
+    "What they do": "Source code host, owned by Microsoft"
+  },
+  {
+    "Abbreviation": "GNU",
+    "Meaning": "Collection of free software, a license",
+    "URL": "https://gnu.org",
+    "What they do": "program of FSF, develops many linux tools and a commonly used license"
+  },
+  {
+    "Abbreviation": "MS",
+    "Meaning": "Microsoft",
+    "URL": "https://microsoft.com",
+    "What they do": "Makers of windows, azure, vscode, and other tools that might be relevent to developers"
+  },
+  {
+    "Abbreviation": "OSI",
+    "Meaning": "Open Source Initiative",
+    "URL": "https://opensource.org",
+    "What they do": "Defining 'Open Source'"
+  },
+  {
+    "Abbreviation": "SO",
+    "Meaning": "StackOverflow",
+    "URL": "https://stackoverflow.com",
+    "What they do": "Popular question and answer website"
+  }
 ]
