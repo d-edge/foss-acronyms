@@ -21,9 +21,8 @@ jobs:
 
         - name: commit
           run: |
-            git add data/organizations.json
-            cat data/organizations.json
-            git commit -m "order json"
+            git add ./data/*.json
+            git commit -m "Order JSON"
             git push origin main
 
         - name: Markdown autodocs
