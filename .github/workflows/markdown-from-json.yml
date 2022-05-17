@@ -9,7 +9,7 @@ jobs:
         - name: Checkout
           uses: actions/checkout@v2
         - name: Order objects by a given property from a json file 
-          uses: aloisdg/order-by-json@v0.1
+          uses: aloisdg/order-by-json@v0.2
           with:
             property: 'Abbreviation'
             input-path: './data/organizations.json'
