@@ -1,285 +1,284 @@
 [
-    {
-        "Abbreviation": "WIP",
-        "Definition": "Work In Progress",
-        "Usage": "Do not merge yet",
-        "Example": "<a href=\"https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/\">GitLab's blog</a>"
-    },
-    {
-        "Abbreviation": "ACK",
-        "Definition": "ACKnowledgement",
-        "Usage": "Agreed/accepted change. A loose ACK can be confusing. It's best to avoid them unless it's a documentation/comment only change in which case there is nothing to test/verify; therefore the tested/untested distinction is not there",
-        "Example": "<a href=\"https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977\">Humanizer</a>, <a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
-    },
-    {
-        "Abbreviation": "NACK/NAK",
-        "Definition": "Negative ACKnowledgement",
-        "Usage": "Disagree with the code changes/concept. Should be accompanied by an explanation",
-        "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
-    },
-    {
-        "Abbreviation": "tested ACK",
-        "Definition": "Tested ACKnowledgment",
-        "Usage": "Reviewed the code changes and have verified the functionality or bug fix",
-        "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
-    },
-    {
-        "Abbreviation": "utACK",
-        "Definition": "UnTested ACKnowledgment",
-        "Usage": "Reviewed and agree with the code changes but haven't actually tested them",
-        "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
-    },
-    {
-        "Abbreviation": "Concept ACK",
-        "Definition": "Concept ACKnowledgement",
-        "Usage": "Agree with the idea and overall direction, but haven't reviewed the code changes or tested them",
-        "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
-    },
-    {
-        "Abbreviation": "LGTM",
-        "Definition": "Looks Good To Me",
-        "Usage": "See ACK",
-        "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>"
-    },
-    {
-        "Abbreviation": "RFC",
-        "Definition": "Request For Comments",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "AFAIK",
-        "Definition": "As Far As I Know",
-        "Usage": "",
-        "Example": "<a href=\"https://github.com/d-edge/Diffract/issues/1#issuecomment-946781621\">Diffract</a>"
-    },
-    {
-        "Abbreviation": "AFAICT",
-        "Definition": "As Far As I Can Tell",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "IIRC",
-        "Definition": "If I Recall Correctly",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "IANAL",
-        "Definition": "I Am Not A Lawyer",
-        "Usage": "Used often before talking about licensing issues",
-        "Example": "<a href=\"https://news.ycombinator.com/item?id=29080575\">HackerNews</a>, <a href=\"https://github.com/OpenPrinting/cups/issues/315#issue-1088620780\">CUPS</a>"
-    },
-    {
-        "Abbreviation": "CMV",
-        "Definition": "Change My View",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "ITT",
-        "Definition": "In This Thread",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "IMO",
-        "Definition": "In My Opinion",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "CCW",
-        "Definition": "Comment and Criticism Welcome",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "YMMV",
-        "Definition": "Your Mileage May Vary",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "FOSS/FLOSS",
-        "Definition": "Free & Open Source Software",
-        "Usage": "That is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software",
-        "Example": "<a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software#Usage\">FOSS/FLOSS</a>"
-    },
-    {
-        "Abbreviation": "PR",
-        "Definition": "Pull Request",
-        "Usage": "Tell others about changes you've pushed to a branch in a repository",
-        "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
-    },
-    {
-        "Abbreviation": "MR",
-        "Definition": "Merge Request",
-        "Usage": "See PR",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "MVP",
-        "Definition": "Minimum Viable Product",
-        "Usage": "A prototype version of a product with the minimum required feature set",
-        "Example": "<a href=\"https://en.wikipedia.org/wiki/Minimum_viable_product\">Wikipedia</a>"
-    },
-    {
-        "Abbreviation": "NIH",
-        "Definition": "Not Invented Here",
-        "Usage": "NIH Syndrome is a decision-making error where we tend to value our own ideas above those conceived by people outside of our group",
-        "Example": "<a href=\"https://learnosity.com/not-invented-here-syndrome-explained/\">learnosity</a>"
-    },
-    {
-        "Abbreviation": "SOLID",
-        "Definition": "Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion",
-        "Usage": "5 (of many) software design principles, promoted by Robert \"Uncle Bob\" Martin",
-        "Example": "<a href=\"https://en.wikipedia.org/wiki/SOLID\">Wikipedia</a>"
-    },
-    {
-        "Abbreviation": "SRP",
-        "Definition": "Single-Responsibility Principle",
-        "Usage": "The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. <a href=\"https://en.wikipedia.org/wiki/Single-responsibility_principle\">wikipedia</a>",
-        "Example": "<a href=\"https://www.reddit.com/r/csharp/comments/qv490z/using_a_tuple_to_initialize_properties_in_the/hku5pw6/\">/r/csharp/</a>"
-    },
-    {
-        "Abbreviation": "DRY",
-        "Definition": "Don't Repeat Yourself",
-        "Usage": "This is used in couple with modular programming, and emphasize on code reusability",
-        "Example": "<a href=\"https://en.wikipedia.org/wiki/Don%27t_repeat_yourself\">Wikipedia</a>"
-    },
-    {
-        "Abbreviation": "KISS",
-        "Definition": "Keep It Simple, Stupid",
-        "Usage": "KISS is a design principle stating that most systems work fine if it is built/kept simple than making the system complex.",
-        "Example": "<a href=\"https://en.wikipedia.org/wiki/KISS_principle#:~:text=KISS%2C%20an%20acronym%20for%20keep,unnecessary%20complexity%20should%20be%20avoided.\">Wikipedia</a>"
-    },
-    {
-        "Abbreviation": "YAGNI",
-        "Definition": "You Ain't Gonna Need It",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "FYI",
-        "Definition": "For Your Information",
-        "Usage": "",
-        "Example": "<a href=\"https://github.com/ArduPilot/MissionPlanner/issues/2216\">ArduPilot</a>, <a href=\"https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400\">F#'s slack</a>"
-    },
-    {
-        "Abbreviation": "NP",
-        "Definition": "No Problem",
-        "Usage": "No stress, it is fine",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "TBD",
-        "Definition": "To Be Defined/Done",
-        "Usage": "",
-        "Example": "<a href=\"https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66\">Software Craft Website</a>"
-    },
-    {
-        "Abbreviation": "ICYMI",
-        "Definition": "In Case You Missed It",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "CoC",
-        "Definition": "Code of Conduct",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "LOC/SLOC",
-        "Definition": "(Source) Lines Of Code",
-        "Usage": "Above each file on GitHub you can find something like `50 lines (43 sloc)`. The difference is the empty lines.",
-        "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/README.md\">GitHub</a>"
-    },
-    {
-        "Abbreviation": "TIL",
-        "Definition": "Today I Learned",
-        "Usage": "TIL that TIL is Today I Learned",
-        "Example": "<a href=\"https://www.reddit.com/r/ProgrammerTIL/\">/r/ProgrammerTIL/</a>"
-    },
-    {
-        "Abbreviation": "OOP",
-        "Definition": "Object Oriented Programming",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "FP",
-        "Definition": "Functional Programming",
-        "Usage": "",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "CLA",
-        "Definition": "Contributor License Agreement",
-        "Usage": "",
-        "Example": "<a href=\"https://github.com/playframework/playframework/pull/616#issuecomment-11394747\">Play Framework</a>, <a href=\"https://cla.opensource.microsoft.com/\">Microsoft</a>"
-    },
-    {
-        "Abbreviation": "ETA",
-        "Definition": "Estimated Time of Arrival",
-        "Usage": "To ask when something will be ready",
-        "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
-    },
-    {
-        "Abbreviation": "FOUC",
-        "Definition": "Flash Of Unstyled Content",
-        "Usage": "When a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet",
-        "Example": "<a href=\"https://github.com/leaverou/md-block#minimizing-fouc\">md-block</a>, <a href=\"https://en.wikipedia.org/wiki/Flash_of_unstyled_content\">Wikipedia</a>"
-    },
-    {
-        "Abbreviation": "VCS",
-        "Definition": "Version Control Software",
-        "Usage": "A way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. Git, SVN or Mercurial are VCS",
-        "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/0\">/r/ProgrammerHumor</a>, <a href=\"https://www.softwaretestinghelp.com/version-control-software/\">softwaretestinghelp.com</a>"
-    },
-    {
-        "Abbreviation": "SCM",
-        "Definition": "Source Code Management",
-        "Usage": "See VCS",
-        "Example": ""
-    },
-    {
-        "Abbreviation": "OP",
-        "Definition": "Original Post/Original Poster",
-        "Usage": "Original Poster (who started a thread) or Original Post (the message that started it)",
-        "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/\">/r/ProgrammerHumor</a>, <a href=\"https://english.stackexchange.com/questions/424366/does-op-mean-original-poster-or-original-post\">StackExchange</a>"
-    },
-    {
-        "Abbreviation": "RTFM",
-        "Definition": "Read The F*****g Manual",
-        "Usage": "Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).",
-        "Example": "<a href=\"https://xkcd.com/293/\">XKCD comic</a>, <a href=\"https://github.com/search?q=RTFM&type=Commits\">Github commits</a>"
-    },
-    {
-        "Abbreviation": "BBL",
-        "Definition": "Brown Bag Lunch",
-        "Usage": "It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic.",
-        "Example": "<a href=\"https://github.com/brownbaglunch/BrownBagLunch\">brownbaglunch on Github (French)</a>"
-    },
-    {
-        "Abbreviation": "ASAP",
-        "Definition": "As Soon As Possible",
-        "Usage": "It is an informal way to say that who wrote it is busy at the moment and will reply as soon as he can.",
-        "Example": "<a href=\"https://www.britannica.com/dictionary/ASAP\">Britannica</a>"
-    },
-    {
-        "Abbreviation": "TYSM",
-        "Definition": "Thank You So Much",
-        "Usage": "",
-        "Example": "<a href=\"https://www.cyberdefinitions.com/definitions/TYSM.html\">Cyber Definitions</a>"
-    },
-    
-    {
-        "Abbreviation": "AOA",
-        "Definition": "Analysis of Alternatives",
-        "Usage": "",
-        "Example": "<a href=\"https://www.reddit.com/r/programming/comments/urhbcx/a_devs_critique_of_oauth2_based_on_their/i8xfpno/\">/r/programming</a>"
-    }
+  {
+    "Abbreviation": "ACK",
+    "Definition": "ACKnowledgement",
+    "Usage": "Agreed/accepted change. A loose ACK can be confusing. It's best to avoid them unless it's a documentation/comment only change in which case there is nothing to test/verify; therefore the tested/untested distinction is not there",
+    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977\">Humanizer</a>, <a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
+  },
+  {
+    "Abbreviation": "AFAICT",
+    "Definition": "As Far As I Can Tell",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "AFAIK",
+    "Definition": "As Far As I Know",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/d-edge/Diffract/issues/1#issuecomment-946781621\">Diffract</a>"
+  },
+  {
+    "Abbreviation": "AOA",
+    "Definition": "Analysis of Alternatives",
+    "Usage": "",
+    "Example": "<a href=\"https://www.reddit.com/r/programming/comments/urhbcx/a_devs_critique_of_oauth2_based_on_their/i8xfpno/\">/r/programming</a>"
+  },
+  {
+    "Abbreviation": "ASAP",
+    "Definition": "As Soon As Possible",
+    "Usage": "It is an informal way to say that who wrote it is busy at the moment and will reply as soon as he can.",
+    "Example": "<a href=\"https://www.britannica.com/dictionary/ASAP\">Britannica</a>"
+  },
+  {
+    "Abbreviation": "BBL",
+    "Definition": "Brown Bag Lunch",
+    "Usage": "It is an informal training meeting usually performed during lunch. It is a nice way to share knowledge, train on technical, business or any kind of skills. The speaker does not have to be an expert of the topic.",
+    "Example": "<a href=\"https://github.com/brownbaglunch/BrownBagLunch\">brownbaglunch on Github (French)</a>"
+  },
+  {
+    "Abbreviation": "CCW",
+    "Definition": "Comment and Criticism Welcome",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "CLA",
+    "Definition": "Contributor License Agreement",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/playframework/playframework/pull/616#issuecomment-11394747\">Play Framework</a>, <a href=\"https://cla.opensource.microsoft.com/\">Microsoft</a>"
+  },
+  {
+    "Abbreviation": "CMV",
+    "Definition": "Change My View",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "CoC",
+    "Definition": "Code of Conduct",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "Concept ACK",
+    "Definition": "Concept ACKnowledgement",
+    "Usage": "Agree with the idea and overall direction, but haven't reviewed the code changes or tested them",
+    "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
+  },
+  {
+    "Abbreviation": "DRY",
+    "Definition": "Don't Repeat Yourself",
+    "Usage": "This is used in couple with modular programming, and emphasize on code reusability",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Don%27t_repeat_yourself\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "ETA",
+    "Definition": "Estimated Time of Arrival",
+    "Usage": "To ask when something will be ready",
+    "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
+  },
+  {
+    "Abbreviation": "FOSS/FLOSS",
+    "Definition": "Free & Open Source Software",
+    "Usage": "That is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software#Usage\">FOSS/FLOSS</a>"
+  },
+  {
+    "Abbreviation": "FOUC",
+    "Definition": "Flash Of Unstyled Content",
+    "Usage": "When a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet",
+    "Example": "<a href=\"https://github.com/leaverou/md-block#minimizing-fouc\">md-block</a>, <a href=\"https://en.wikipedia.org/wiki/Flash_of_unstyled_content\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "FP",
+    "Definition": "Functional Programming",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "FYI",
+    "Definition": "For Your Information",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/ArduPilot/MissionPlanner/issues/2216\">ArduPilot</a>, <a href=\"https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400\">F#'s slack</a>"
+  },
+  {
+    "Abbreviation": "IANAL",
+    "Definition": "I Am Not A Lawyer",
+    "Usage": "Used often before talking about licensing issues",
+    "Example": "<a href=\"https://news.ycombinator.com/item?id=29080575\">HackerNews</a>, <a href=\"https://github.com/OpenPrinting/cups/issues/315#issue-1088620780\">CUPS</a>"
+  },
+  {
+    "Abbreviation": "ICYMI",
+    "Definition": "In Case You Missed It",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "IIRC",
+    "Definition": "If I Recall Correctly",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "IMO",
+    "Definition": "In My Opinion",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "ITT",
+    "Definition": "In This Thread",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "KISS",
+    "Definition": "Keep It Simple, Stupid",
+    "Usage": "KISS is a design principle stating that most systems work fine if it is built/kept simple than making the system complex.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/KISS_principle#:~:text=KISS%2C%20an%20acronym%20for%20keep,unnecessary%20complexity%20should%20be%20avoided.\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "LGTM",
+    "Definition": "Looks Good To Me",
+    "Usage": "See ACK",
+    "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>"
+  },
+  {
+    "Abbreviation": "LOC/SLOC",
+    "Definition": "(Source) Lines Of Code",
+    "Usage": "Above each file on GitHub you can find something like `50 lines (43 sloc)`. The difference is the empty lines.",
+    "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/README.md\">GitHub</a>"
+  },
+  {
+    "Abbreviation": "MR",
+    "Definition": "Merge Request",
+    "Usage": "See PR",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "MVP",
+    "Definition": "Minimum Viable Product",
+    "Usage": "A prototype version of a product with the minimum required feature set",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Minimum_viable_product\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "NACK/NAK",
+    "Definition": "Negative ACKnowledgement",
+    "Usage": "Disagree with the code changes/concept. Should be accompanied by an explanation",
+    "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
+  },
+  {
+    "Abbreviation": "NIH",
+    "Definition": "Not Invented Here",
+    "Usage": "NIH Syndrome is a decision-making error where we tend to value our own ideas above those conceived by people outside of our group",
+    "Example": "<a href=\"https://learnosity.com/not-invented-here-syndrome-explained/\">learnosity</a>"
+  },
+  {
+    "Abbreviation": "NP",
+    "Definition": "No Problem",
+    "Usage": "No stress, it is fine",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "OOP",
+    "Definition": "Object Oriented Programming",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "OP",
+    "Definition": "Original Post/Original Poster",
+    "Usage": "Original Poster (who started a thread) or Original Post (the message that started it)",
+    "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/\">/r/ProgrammerHumor</a>, <a href=\"https://english.stackexchange.com/questions/424366/does-op-mean-original-poster-or-original-post\">StackExchange</a>"
+  },
+  {
+    "Abbreviation": "PR",
+    "Definition": "Pull Request",
+    "Usage": "Tell others about changes you've pushed to a branch in a repository",
+    "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
+  },
+  {
+    "Abbreviation": "RFC",
+    "Definition": "Request For Comments",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "RTFM",
+    "Definition": "Read The F*****g Manual",
+    "Usage": "Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).",
+    "Example": "<a href=\"https://xkcd.com/293/\">XKCD comic</a>, <a href=\"https://github.com/search?q=RTFM&type=Commits\">Github commits</a>"
+  },
+  {
+    "Abbreviation": "SCM",
+    "Definition": "Source Code Management",
+    "Usage": "See VCS",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "SOLID",
+    "Definition": "Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion",
+    "Usage": "5 (of many) software design principles, promoted by Robert \"Uncle Bob\" Martin",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/SOLID\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "SRP",
+    "Definition": "Single-Responsibility Principle",
+    "Usage": "The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. <a href=\"https://en.wikipedia.org/wiki/Single-responsibility_principle\">wikipedia</a>",
+    "Example": "<a href=\"https://www.reddit.com/r/csharp/comments/qv490z/using_a_tuple_to_initialize_properties_in_the/hku5pw6/\">/r/csharp/</a>"
+  },
+  {
+    "Abbreviation": "TBD",
+    "Definition": "To Be Defined/Done",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66\">Software Craft Website</a>"
+  },
+  {
+    "Abbreviation": "tested ACK",
+    "Definition": "Tested ACKnowledgment",
+    "Usage": "Reviewed the code changes and have verified the functionality or bug fix",
+    "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
+  },
+  {
+    "Abbreviation": "TIL",
+    "Definition": "Today I Learned",
+    "Usage": "TIL that TIL is Today I Learned",
+    "Example": "<a href=\"https://www.reddit.com/r/ProgrammerTIL/\">/r/ProgrammerTIL/</a>"
+  },
+  {
+    "Abbreviation": "TYSM",
+    "Definition": "Thank You So Much",
+    "Usage": "",
+    "Example": "<a href=\"https://www.cyberdefinitions.com/definitions/TYSM.html\">Cyber Definitions</a>"
+  },
+  {
+    "Abbreviation": "utACK",
+    "Definition": "UnTested ACKnowledgment",
+    "Usage": "Reviewed and agree with the code changes but haven't actually tested them",
+    "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
+  },
+  {
+    "Abbreviation": "VCS",
+    "Definition": "Version Control Software",
+    "Usage": "A way to keep a track of the changes in the code so that if something goes wrong, we can make comparisons in different code versions and revert to any previous version that we want. Git, SVN or Mercurial are VCS",
+    "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/0\">/r/ProgrammerHumor</a>, <a href=\"https://www.softwaretestinghelp.com/version-control-software/\">softwaretestinghelp.com</a>"
+  },
+  {
+    "Abbreviation": "WIP",
+    "Definition": "Work In Progress",
+    "Usage": "Do not merge yet",
+    "Example": "<a href=\"https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/\">GitLab's blog</a>"
+  },
+  {
+    "Abbreviation": "YAGNI",
+    "Definition": "You Ain't Gonna Need It",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "YMMV",
+    "Definition": "Your Mileage May Vary",
+    "Usage": "",
+    "Example": ""
+  }
 ]
