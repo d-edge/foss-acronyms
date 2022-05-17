@@ -12,20 +12,19 @@ jobs:
           uses: aloisdg/order-by-json@v0.1
           with:
             # Optional output file paths, defaults to '[./README.md]'.
-            input-path: data/organizations.json
-            output-path: data/organizations.json
+            input-path: ./data/organizations.json
+            output-path: ./data/organizations.json
             property: Abbreviation
 
         - name: setup git config
           run: |
-            # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
-            git config user.name "d-edge-bot"
+            git config user.name "d-edge automation"
             git config user.email "<>"
 
         - name: commit
           run: |
-            # Stage the file, commit and push
             git add data/organizations.json
+            cat data/organizations.json
             git commit -m "order json"
             git push origin main
 
