@@ -7,6 +7,13 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
+        - name: Order objects by a given property from a json file 
+          uses: aloisdg/order-by-json@v1.0.0
+          with:
+            # Optional output file paths, defaults to '[./README.md]'.
+            input-path: data/organizations.json
+            output-path: data/organizations.json
+            property: Abbreviation
         - name: Markdown autodocs
           uses: dineshsonachalam/markdown-autodocs@v1.0.3
           with:
