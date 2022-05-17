@@ -9,11 +9,10 @@ jobs:
         - name: Checkout
           uses: actions/checkout@v2
         - name: Order objects by a given property from a json file 
-          uses: aloisdg/order-by-json@v0.2
+          uses: aloisdg/order-by-json@v0.3
           with:
-            property: 'Abbreviation'
-            input-path: './data/organizations.json'
-            output-path: './data/organizations.json'
+            pattern: "./data/*.json"
+            property: 'Abbreviation
 
         - name: setup git config
           run: |
