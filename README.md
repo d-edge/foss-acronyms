@@ -79,12 +79,12 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 
 <!-- Contribute to ./data/stacks.json if you want to -->
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data/stacks.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="definition-th">Definition</th><th class="example-th">Example</th></tr></thead><tbody ><tr ><td class="abbreviation-td td_text">LAMP</td><td class="definition-td td_text">Linux, Apache, MySQL, PHP (Perl or Python)</td><td class="example-td td_num"></td></tr>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="definition-th">Definition</th><th class="example-th">Example</th></tr></thead><tbody ><tr ><td class="abbreviation-td td_text">ELK</td><td class="definition-td td_text">Elasticsearch, Logstash, and Kibana</td><td class="example-td td_text"><a href="https://www.elastic.co/what-is/elk-stack">What is the ELK Stack?</a></td></tr>
+<tr ><td class="abbreviation-td td_text">LAMP</td><td class="definition-td td_text">Linux, Apache, MySQL, PHP (Perl or Python)</td><td class="example-td td_num"></td></tr>
 <tr ><td class="abbreviation-td td_text">LEMP</td><td class="definition-td td_text">Linux, Nginx Server, MySQL,  PHP (Perl or Python)</td><td class="example-td td_num"></td></tr>
 <tr ><td class="abbreviation-td td_text">MEAN</td><td class="definition-td td_text">MongoDB, Express.js, Angular.js, Node.js</td><td class="example-td td_num"></td></tr>
 <tr ><td class="abbreviation-td td_text">MERN</td><td class="definition-td td_text">MongoDB, Express.js, React.js, Node.js</td><td class="example-td td_num"></td></tr>
-<tr ><td class="abbreviation-td td_text">SAFE</td><td class="definition-td td_text">Suave (or Saturn), Azure, Fable, Elmish</td><td class="example-td td_text"><a href="https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/">/r/fsharp</a></td></tr>
-<tr ><td class="abbreviation-td td_text">ELK</td><td class="definition-td td_text">Elasticsearch, Logstash, and Kibana</td><td class="example-td td_text"><a href="https://www.elastic.co/what-is/elk-stack">What is the ELK Stack?</a></td></tr></tbody></table>
+<tr ><td class="abbreviation-td td_text">SAFE</td><td class="definition-td td_text">Suave (or Saturn), Azure, Fable, Elmish</td><td class="example-td td_text"><a href="https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/">/r/fsharp</a></td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
