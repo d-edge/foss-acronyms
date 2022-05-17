@@ -68,11 +68,11 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 <!-- Contribute to ./data/organizations.json if you want to -->
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data/organizations.json) -->
 <table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="meaning-th">Meaning</th><th class="url-th">URL</th><th class="what-they-do-th">What they do</th></tr></thead><tbody ><tr ><td class="abbreviation-td td_text">FSF</td><td class="meaning-td td_text">Free Software Foundation</td><td class="url-td td_text">https://www.fsf.org</td><td class="what-they-do-td td_text">Oversee a number of open source organizations</td></tr>
+<tr ><td class="abbreviation-td td_text">GH</td><td class="meaning-td td_text">GitHub</td><td class="url-td td_text">https://github.com</td><td class="what-they-do-td td_text">Source code host, owned by Microsoft</td></tr>
 <tr ><td class="abbreviation-td td_text">GNU</td><td class="meaning-td td_text">Collection of free software, a license</td><td class="url-td td_text">https://gnu.org</td><td class="what-they-do-td td_text">program of FSF, develops many linux tools and a commonly used license</td></tr>
 <tr ><td class="abbreviation-td td_text">MS</td><td class="meaning-td td_text">Microsoft</td><td class="url-td td_text">https://microsoft.com</td><td class="what-they-do-td td_text">Makers of windows, azure, vscode, and other tools that might be relevent to developers</td></tr>
-<tr ><td class="abbreviation-td td_text">SO</td><td class="meaning-td td_text">StackOverflow</td><td class="url-td td_text">https://stackoverflow.com</td><td class="what-they-do-td td_text">Popular question and answer website</td></tr>
-<tr ><td class="abbreviation-td td_text">GH</td><td class="meaning-td td_text">GitHub</td><td class="url-td td_text">https://github.com</td><td class="what-they-do-td td_text">Source code host, owned by Microsoft</td></tr>
-<tr ><td class="abbreviation-td td_text">OSI</td><td class="meaning-td td_text">Open Source Initiative</td><td class="url-td td_text">https://opensource.org</td><td class="what-they-do-td td_text">Defining 'Open Source'</td></tr></tbody></table>
+<tr ><td class="abbreviation-td td_text">OSI</td><td class="meaning-td td_text">Open Source Initiative</td><td class="url-td td_text">https://opensource.org</td><td class="what-they-do-td td_text">Defining 'Open Source'</td></tr>
+<tr ><td class="abbreviation-td td_text">SO</td><td class="meaning-td td_text">StackOverflow</td><td class="url-td td_text">https://stackoverflow.com</td><td class="what-they-do-td td_text">Popular question and answer website</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## Stacks
