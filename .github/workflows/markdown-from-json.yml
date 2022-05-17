@@ -11,8 +11,8 @@ jobs:
         - name: Order objects by a given property from a json file 
           uses: aloisdg/order-by-json@v0.3
           with:
-            pattern: "./data/*.json"
-            property: 'Abbreviation
+            pattern: './data/*.json'
+            property: 'Abbreviation'
 
         - name: setup git config
           run: |
