@@ -16,6 +16,19 @@ jobs:
             output-path: data/organizations.json
             property: Abbreviation
 
+        - name: setup git config
+          run: |
+            # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+            git config user.name "d-edge-bot"
+            git config user.email "<>"
+
+        - name: commit
+          run: |
+            # Stage the file, commit and push
+            git add data/organizations.json
+            git commit -m "order json"
+            git push origin main
+
         - name: Markdown autodocs
           uses: dineshsonachalam/markdown-autodocs@v1.0.3
           with:
