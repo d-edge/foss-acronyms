@@ -8,7 +8,7 @@ Maintained by folks at [D-EDGE](https://www.d-edge.com/).
 
 ## Contributing
 
-If you have a github account, you can [click here](https://github.com/d-edge/foss-acronyms/edit/main/README.md) to edit this file.
+If you have a GitHub account, you can submit a pull request to any json in the data folder.
 
 ## Acronyms
 
