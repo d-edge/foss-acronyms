@@ -274,5 +274,12 @@
         "Definition": "Thank You So Much",
         "Usage": "",
         "Example": "<a href=\"https://www.cyberdefinitions.com/definitions/TYSM.html\">Cyber Definitions</a>"
+    },
+    
+    {
+        "Abbreviation": "AOA",
+        "Definition": "Analysis of Alternatives",
+        "Usage": "",
+        "Example": "<a href=\"https://www.reddit.com/r/programming/comments/urhbcx/a_devs_critique_of_oauth2_based_on_their/i8xfpno/\">/r/programming</a>"
     }
 ]
