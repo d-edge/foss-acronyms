@@ -11,10 +11,9 @@ jobs:
         - name: Order objects by a given property from a json file 
           uses: aloisdg/order-by-json@v0.1
           with:
-            # Optional output file paths, defaults to '[./README.md]'.
-            input-path: ./data/organizations.json
-            output-path: ./data/organizations.json
-            property: Abbreviation
+            property: 'Abbreviation'
+            input-path: './data/organizations.json'
+            output-path: './data/organizations.json'
 
         - name: setup git config
           run: |
