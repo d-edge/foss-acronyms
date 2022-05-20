@@ -16,14 +16,15 @@ jobs:
 
         - name: setup git config
           run: |
-            git config user.name "d-edge automation"
-            git config user.email "<>"
-
-        - name: commit
-          run: |
-            git add ./data/*.json
-            git commit -m "Order JSON"
-            git push origin main
+            if [ $(git diff | wc -l) -gt 0 ]; then
+              git config user.name "d-edge automation"
+              git config user.email "<>"
+              git add ./data/*.json
+              git commit -m "Order JSON"
+              git push origin main
+            else
+              echo Order is respected
+            fi
 
         - name: Markdown autodocs
           uses: dineshsonachalam/markdown-autodocs@v1.0.3
