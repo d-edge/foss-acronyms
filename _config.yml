@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+site-css:
+  - "/website/styles.css"
