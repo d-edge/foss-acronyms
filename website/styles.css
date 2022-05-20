@@ -1,4 +1,4 @@
 .page-header {
-  background-color: rebeccapurple;
-  background-image: linear-gradient(120deg, rebeccapurple, #155799);
+  background-color: #734074;
+  background-image: radial-gradient(ellipse farthest-side at 50% 180%, #734074 0%, #3a2363 140%);
 }
