@@ -87,6 +87,9 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 <tr ><td class="abbreviation-td td_text">SAFE</td><td class="definition-td td_text">Suave (or Saturn), Azure, Fable, Elmish</td><td class="example-td td_text"><a href="https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/">/r/fsharp</a></td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
+
+-----
+
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin's CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#peer-review)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
