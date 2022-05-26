@@ -150,6 +150,12 @@
     "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/README.md\">GitHub</a>"
   },
   {
+    "Abbreviation": "MPA",
+    "Definition": "Multi-Page Application",
+    "Usage": "",
+    "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
+  },
+  {
     "Abbreviation": "MR",
     "Definition": "Merge Request",
     "Usage": "See PR",
@@ -222,6 +228,12 @@
     "Example": "<a href=\"https://en.wikipedia.org/wiki/SOLID\">Wikipedia</a>"
   },
   {
+    "Abbreviation": "SPA",
+    "Definition": "Single-Page Application",
+    "Usage": "",
+    "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
+  },
+  {
     "Abbreviation": "SRP",
     "Definition": "Single-Responsibility Principle",
     "Usage": "The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. <a href=\"https://en.wikipedia.org/wiki/Single-responsibility_principle\">wikipedia</a>",
@@ -280,17 +292,5 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
-  },
-  {
-    "Abbreviation": "SPA",
-    "Definition": "Single-Page Application",
-    "Usage": "",
-    "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
-  },
-  {
-    "Abbreviation": "MPA",
-    "Definition": "Multi-Page Application",
-    "Usage": "",
-    "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
   }
 ]
