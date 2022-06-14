@@ -89,6 +89,24 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 <tr ><td class="abbreviation-td td_text">SAFE</td><td class="definition-td td_text">Suave (or Saturn), Azure, Fable, Elmish</td><td class="example-td td_text"><a href="https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/">/r/fsharp</a></td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
+## Chat Acronyms
+
+<!-- Contribute to ./data/stacks.json if you want to -->
+<!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data/stacks.json) -->
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="definition-th">Definition</th>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">ROFL</td><td class="definition-td td_text">Rolling on floor laughing</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">STFU</td><td class="definition-td td_text">Shut the *freak* up</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">LMK</td><td class="definition-td td_text">Let me know</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">ILY</td><td class="definition-td td_text">I love you</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">YOLO</td><td class="definition-td td_text">You only live once</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">SMH</td><td class="definition-td td_text">Shaking my head</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">IKR</td><td class="definition-td td_text">I know, right</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">OFC</td><td class="definition-td td_text">Of course</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">LMFAO </td><td class="definition-td td_text">Laughing my freaking *a* off</td>
+</tr></thead><tbody ><tr ><td class="abbreviation-td td_text">NVM </td><td class="definition-td td_text">Never mind</td>
+</td></tr></tbody></table>
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
 
 -----
 
