@@ -69,6 +69,16 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 
 <!-- Contribute to ./data/chat-acronyms.json if you want to -->
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data/chat-acronyms.json) -->
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="definition-th">Definition</th></tr></thead><tbody ><tr ><td class="abbreviation-td td_text">IKR</td><td class="definition-td td_text">I know, right</td></tr>
+<tr ><td class="abbreviation-td td_text">ILY</td><td class="definition-td td_text">I love you</td></tr>
+<tr ><td class="abbreviation-td td_text">LMFAO</td><td class="definition-td td_text">Laughing my freaking *a* off</td></tr>
+<tr ><td class="abbreviation-td td_text">LMK</td><td class="definition-td td_text">Let me know</td></tr>
+<tr ><td class="abbreviation-td td_text">NVM</td><td class="definition-td td_text">Never mind</td></tr>
+<tr ><td class="abbreviation-td td_text">OFC</td><td class="definition-td td_text">Of course</td></tr>
+<tr ><td class="abbreviation-td td_text">ROFL</td><td class="definition-td td_text">Rolling on floor laughing</td></tr>
+<tr ><td class="abbreviation-td td_text">SMH</td><td class="definition-td td_text">Shaking my head</td></tr>
+<tr ><td class="abbreviation-td td_text">STFU</td><td class="definition-td td_text">Shut the *freak* up</td></tr>
+<tr ><td class="abbreviation-td td_text">YOLO</td><td class="definition-td td_text">You only live once</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## Communities, Companies, Organizations
