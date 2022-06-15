@@ -1,43 +1,42 @@
 [
   {
-    "Abbreviation": "ROFL",
-    "Definition": "Rolling on floor laughing"
-  },
-  {
-    "Abbreviation": "STFU",
-    "Definition": "Shut the *freak* up"
-  },
-  {
-    "Abbreviation": "LMK",
-    "Definition": "Let me know"
+    "Abbreviation": "IKR",
+    "Definition": "I know, right"
   },
   {
     "Abbreviation": "ILY",
     "Definition": "I love you"
   },
   {
-    "Abbreviation": "YOLO",
-    "Definition": "You only live once"
-  },
-  {
-    "Abbreviation": "SMH",
-    "Definition": "Shaking my head"
-  },
-  {
     "Abbreviation": "LMFAO",
     "Definition": "Laughing my freaking *a* off"
+  },
+  {
+    "Abbreviation": "LMK",
+    "Definition": "Let me know"
   },
   {
     "Abbreviation": "NVM",
     "Definition": "Never mind"
   },
   {
-    "Abbreviation": "IKR",
-    "Definition": "I know, right"
-  },
-  {
     "Abbreviation": "OFC",
     "Definition": "Of course"
+  },
+  {
+    "Abbreviation": "ROFL",
+    "Definition": "Rolling on floor laughing"
+  },
+  {
+    "Abbreviation": "SMH",
+    "Definition": "Shaking my head"
+  },
+  {
+    "Abbreviation": "STFU",
+    "Definition": "Shut the *freak* up"
+  },
+  {
+    "Abbreviation": "YOLO",
+    "Definition": "You only live once"
   }
 ]
-  
