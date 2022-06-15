@@ -65,6 +65,12 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 <tr ><td class="abbreviation-td td_text">YMMV</td><td class="definition-td td_text">Your Mileage May Vary</td><td class="usage-td td_num"></td><td class="example-td td_num"></td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
+## Common chat acronyms
+
+<!-- Contribute to ./data/chat-acronyms.json if you want to -->
+<!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data/chat-acronyms.json) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
 ## Communities, Companies, Organizations
 
 <!-- Contribute to ./data/organizations.json if you want to -->
