@@ -1,4 +1,9 @@
-theme: jekyll-theme-cayman
+theme: tuur29/pages-themes-cayman
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css:
-  - "/website/styles.css"
+colors:
+    gradient_left: "#734074"
+    gradient_right: "#159957"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
