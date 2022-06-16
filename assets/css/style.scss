@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #734074;
+  background-image: radial-gradient(ellipse farthest-side at 50% 180%, #734074 0%, #3a2363 140%);
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #3a2363;
+}
