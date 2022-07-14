@@ -74,7 +74,7 @@ If you have a GitHub account, you can submit a pull request to any json in the d
 <tr ><td class="abbreviation-td td_text">LMFAO</td><td class="definition-td td_text">Laughing my freaking *a* off</td></tr>
 <tr ><td class="abbreviation-td td_text">LMK</td><td class="definition-td td_text">Let me know</td></tr>
 <tr ><td class="abbreviation-td td_text">NVM</td><td class="definition-td td_text">Never mind</td></tr>
-<tr ><td class="abbreviation-td td_text">OFC</td><td class="definition-td td_text">Of course</td></tr>
+<tr ><td class="abbreviation-td td_text">OFC</td><td class="definition-td td_text">Of *freaking* course</td></tr>
 <tr ><td class="abbreviation-td td_text">ROFL</td><td class="definition-td td_text">Rolling on floor laughing</td></tr>
 <tr ><td class="abbreviation-td td_text">SMH</td><td class="definition-td td_text">Shaking my head</td></tr>
 <tr ><td class="abbreviation-td td_text">STFU</td><td class="definition-td td_text">Shut the *freak* up</td></tr>
