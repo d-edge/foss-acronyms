@@ -10,6 +10,17 @@ Maintained by folks at [D-EDGE](https://www.d-edge.com/).
 
 If you have a GitHub account, you can submit a pull request to any json in the data folder.
 
+## Tip
+
+Write out the full name when you want to introduce a term (with the acronym in brackets). Use only the acronym after this.
+Example:
+
+> Companies don’t usually talk about FOMO (Fear Of Missing Out). Instead, they use phrases such as “shiny object syndrome” and “market expectations.” Google is a great example of how FOMO can creep in. 
+
+[FOMO Is Disastrous for Company Strategies](https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/) by [Ruben Ugarte](https://rubenugarte.com/)
+
+If you are only going to use the acronym once, maybe don't use it at all and rely on the whole expression instead. 
+
 ## Acronyms
 
 <!-- Contribute to ./data/acronyms.json if you want to -->
