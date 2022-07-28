@@ -78,6 +78,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
   },
   {
+    "Abbreviation": "FOMO",
+    "Definition": "Fear Of Missing Out",
+    "Usage": "The feeling of apprehension that one is either not in the know or missing out on information, events, experiences, or life decisions that could make one's life better",
+    "Example": "<a href=\"https://news.ycombinator.com/item?id=32268941#32269137\">Hacker News</a>"
+  },
+  {
     "Abbreviation": "FOSS/FLOSS",
     "Definition": "Free & Open Source Software",
     "Usage": "That is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software",
