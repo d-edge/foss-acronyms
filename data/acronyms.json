@@ -288,6 +288,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/0\">/r/ProgrammerHumor</a>, <a href=\"https://www.softwaretestinghelp.com/version-control-software/\">softwaretestinghelp.com</a>"
   },
   {
+    "Abbreviation": "WDYT",
+    "Definition": "What Do You Think",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/bitrise-io/bitrise-workflow-editor/pull/147\">Bitrise Workflow Editor</a>"
+  },
+  {
     "Abbreviation": "WIP",
     "Definition": "Work In Progress",
     "Usage": "Do not merge yet",
