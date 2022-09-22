@@ -17,12 +17,25 @@ You can learn how from this *free* series [How to Contribute to an Open Source P
 This project follows a subset of [Conventional commits specification](https://www.conventionalcommits.org/en/v1.0.0/).
 No type, no scope. Only description and so upper case the first letter.
 
-## What do contribute
+## What to contribute?
+
+### Fill gap
 
 FOSS-Acronyms has a lot of blank space waiting to be filled. Find an empty string in one of the [JSON](https://github.com/d-edge/foss-acronyms/tree/main/data) and fix it!
 
-
 ![image](https://user-images.githubusercontent.com/3449303/191771306-a820a087-7e8e-462a-bd69-358b58a0d377.png)
 
+Pro-tips: Open [acronyms.json](https://github.com/d-edge/foss-acronyms/blob/main/data/acronyms.json) and search for `""` 😄
+
+### Add new acronym
+
+You can contribute by adding new entries to the list of acronyms.
+
+- Find a good missing acronym
+  - Grab one in the [issues](https://github.com/d-edge/foss-acronyms/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22). Issues are filled with good missing acronyms.
+  - Submit your own. A missing acronym is an acronym not in the list nor in the issues. A good acronym is any acronym used by the FOSS community.
+- Fork the project. [You can use this shortcut](https://github.com/d-edge/foss-acronyms/fork).
+- Edit the JSON
+- Submit a PR
 
 Thank you!
