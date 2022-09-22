@@ -39,7 +39,9 @@ You can contribute by adding new entries to the list of acronyms.
   - an `Abbreviation` like "FOSS"
   - a `Definition` like "Free & Open Source Software"
   - a `Usage` like "That is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software"
- - an `Example` wich is a collection of html link like `<a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software#Usage\">FOSS/FLOSS</a>`. Don't forget to escape all the quote (e.g. `\"`).
+  - an `Example` wich is a collection of html link like `<a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software#Usage\">FOSS/FLOSS</a>`. Don't forget to escape all the quote (e.g. `\"`).
 - Submit a PR
 
-Thank you!
+Finally here is an example of a [merged PR](https://github.com/d-edge/foss-acronyms/pull/63/files). Have fun hacking this project 😸
+
+Thank you for contributing!
