@@ -35,7 +35,11 @@ You can contribute by adding new entries to the list of acronyms.
   - Grab one in the [issues](https://github.com/d-edge/foss-acronyms/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22). Issues are filled with good missing acronyms.
   - Submit your own. A missing acronym is an acronym not in the list nor in the issues. A good acronym is any acronym used by the FOSS community.
 - Fork the project. [You can use this shortcut](https://github.com/d-edge/foss-acronyms/fork).
-- Edit the JSON
+- Edit the JSON. A good acronym need
+  - an `Abbreviation` like "FOSS"
+  - a `Definition` like "Free & Open Source Software"
+  - a `Usage` like "That is both free software and open-source software where anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software"
+ - an `Example` wich is a collection of html link like `<a href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software#Usage\">FOSS/FLOSS</a>`. Don't forget to escape all the quote (e.g. `\"`).
 - Submit a PR
 
 Thank you!
