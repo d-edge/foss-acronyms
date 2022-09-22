@@ -14,7 +14,15 @@ You can learn how from this *free* series [How to Contribute to an Open Source P
 
 ## Git Commit Messages
 
-THis project follows a subset of [Conventional commits specification](https://www.conventionalcommits.org/en/v1.0.0/).
+This project follows a subset of [Conventional commits specification](https://www.conventionalcommits.org/en/v1.0.0/).
 No type, no scope. Only description and so upper case the first letter.
+
+## What do contribute
+
+FOSS-Acronyms has a lot of blank space waiting to be filled. Find an empty string in one of the [JSON](https://github.com/d-edge/foss-acronyms/tree/main/data) and fix it!
+
+
+![image](https://user-images.githubusercontent.com/3449303/191771306-a820a087-7e8e-462a-bd69-358b58a0d377.png)
+
 
 Thank you!
