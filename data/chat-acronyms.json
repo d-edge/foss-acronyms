@@ -38,5 +38,17 @@
   {
     "Abbreviation": "YOLO",
     "Definition": "You only live once"
+  },
+  {
+    "Abbreviation": "IRL",
+    "Definition": "In Real Life"
+  },
+  {
+    "Abbreviation": "AFK",
+    "Definition": "Away From Keyboard"
+  },
+  {
+    "Abbreviation": "BRB",
+    "Definition": "Be Right Back"
   }
 ]
