@@ -300,6 +300,12 @@
     "Example": "<a href=\"https://about.gitlab.com/blog/2016/01/08/feature-highlight-wip/\">GitLab's blog</a>"
   },
   {
+    "Abbreviation": "WRT",
+    "Definition": "With Respect to",
+    "Usage": "In reference to a particular thing or situation",
+    "Example": "<a href=\"https://github.com/timlrx/tailwind-nextjs-starter-blog/issues/340/\">Tailwind Blog</a>"
+  },
+  {
     "Abbreviation": "YAGNI",
     "Definition": "You Ain't Gonna Need It",
     "Usage": "",
