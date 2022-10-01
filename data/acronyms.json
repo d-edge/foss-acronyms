@@ -306,6 +306,12 @@
     "Example": "<a href=\"https://github.com/timlrx/tailwind-nextjs-starter-blog/issues/340/\">Tailwind Blog</a>, <a href=\"https://news.ycombinator.com/item?id=31775273/\">Hacker News</a>"
   },
   {
+    "Abbreviation": "XP",
+    "Definition": "Extreme Programming",
+    "Usage": "",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Extreme_programming\">Wikipedia"
+  },
+  {
     "Abbreviation": "YAGNI",
     "Definition": "You Ain't Gonna Need It",
     "Usage": "",
