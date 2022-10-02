@@ -1,5 +1,10 @@
 [
   {
+    "Abbreviation": "EFK",
+    "Definition": "Elasticsearch, Fluentd, and Kibana",
+    "Example": "<a href=\"https://www.digitalocean.com/community/tutorials/how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes\">How To Set Up an Elasticsearch, Fluentd and Kibana (EFK) Logging Stack on Kubernetes</a>"
+  },
+  {
     "Abbreviation": "ELK",
     "Definition": "Elasticsearch, Logstash, and Kibana",
     "Example": "<a href=\"https://www.elastic.co/what-is/elk-stack\">What is the ELK Stack?</a>"
