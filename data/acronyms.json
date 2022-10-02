@@ -258,6 +258,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/csharp/comments/qv490z/using_a_tuple_to_initialize_properties_in_the/hku5pw6/\">/r/csharp/</a>"
   },
   {
+    "Abbreviation": "SSOC",
+    "Definition": "Social Summer of Code",
+    "Usage": "Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.",
+    "Example": "<a href=\"https://getsocialnow.co/event/meeting-or-networking-event-social-summer-of-code/\">Social Summer of Code</a>"
+  },
+  {
     "Abbreviation": "TBD",
     "Definition": "To Be Defined/Done",
     "Usage": "",
