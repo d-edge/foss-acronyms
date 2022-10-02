@@ -85,7 +85,8 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 
 <!-- Contribute to ./data/chat-acronyms.json if you want to -->
 <!-- MARKDOWN-AUTO-DOCS:START (JSON_TO_HTML_TABLE:src=./data/chat-acronyms.json) -->
-<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="definition-th">Definition</th></tr></thead><tbody ><tr ><td class="abbreviation-td td_text">IKR</td><td class="definition-td td_text">I know, right</td></tr>
+<table class="JSON-TO-HTML-TABLE"><thead><tr><th class="abbreviation-th">Abbreviation</th><th class="definition-th">Definition</th></tr></thead><tbody ><tr ><td class="abbreviation-td td_text">CMIIW</td><td class="definition-td td_text">Correct me if i'm wrong</td></tr>
+<tr ><td class="abbreviation-td td_text">IKR</td><td class="definition-td td_text">I know, right</td></tr>
 <tr ><td class="abbreviation-td td_text">ILY</td><td class="definition-td td_text">I love you</td></tr>
 <tr ><td class="abbreviation-td td_text">LMFAO</td><td class="definition-td td_text">Laughing my freaking *a* off</td></tr>
 <tr ><td class="abbreviation-td td_text">LMK</td><td class="definition-td td_text">Let me know</td></tr>
