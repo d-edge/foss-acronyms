@@ -222,6 +222,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/ProgrammerHumor/comments/r9ah39/what_about_5000/hnbdq90/\">/r/ProgrammerHumor</a>, <a href=\"https://english.stackexchange.com/questions/424366/does-op-mean-original-poster-or-original-post\">StackExchange</a>"
   },
   {
+    "Abbreviation": "PEBCAK",
+    "Definition": "Problem Exists Between Keyboard and Chair",
+    "Usage": "It is a user error, not a problem / bug in the program",
+    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>"
+  },
+  {
     "Abbreviation": "PR",
     "Definition": "Pull Request",
     "Usage": "Tell others about changes you've pushed to a branch in a repository",
