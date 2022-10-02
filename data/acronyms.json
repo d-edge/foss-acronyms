@@ -84,6 +84,12 @@
     "Example": "<a href=\"https://en.wikipedia.org/wiki/Data_transfer_object\">DTO Wikipedia</a>"
   },
   {
+    "Abbreviation": "DX",
+    "Definition": "Developer Experience",
+    "Usage": "Guidelines to make onboarding and development of a project easy to get into and maintain",
+    "Example": "<a href=\"https://github.com/near/near-explorer/issues/803\">Near (Github)</a>"
+  },
+  {
     "Abbreviation": "ETA",
     "Definition": "Estimated Time of Arrival",
     "Usage": "To ask when something will be ready",
