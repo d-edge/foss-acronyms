@@ -66,6 +66,12 @@
     "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
   },
   {
+    "Abbreviation": "DevOps",
+    "Definition": "Devlopment Operations",
+    "Usage": "",
+    "Example": ""
+  },
+  {
     "Abbreviation": "DRY",
     "Definition": "Don't Repeat Yourself",
     "Usage": "This is used in couple with modular programming, and emphasize on code reusability",
@@ -332,12 +338,6 @@
   {
     "Abbreviation": "YMMV",
     "Definition": "Your Mileage May Vary",
-    "Usage": "",
-    "Example": ""
-  },
-  {
-    "Abbreviation": "DevOps",
-    "Definition": "Devlopment Operations",
     "Usage": "",
     "Example": ""
   }
