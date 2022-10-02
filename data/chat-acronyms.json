@@ -1,5 +1,13 @@
 [
   {
+    "Abbreviation": "AFK",
+    "Definition": "Away From Keyboard"
+  },
+  {
+    "Abbreviation": "BRB",
+    "Definition": "Be Right Back"
+  },
+  {
     "Abbreviation": "CMIIW",
     "Definition": "Correct me if i'm wrong"
   },
@@ -10,6 +18,10 @@
   {
     "Abbreviation": "ILY",
     "Definition": "I love you"
+  },
+  {
+    "Abbreviation": "IRL",
+    "Definition": "In Real Life"
   },
   {
     "Abbreviation": "LMFAO",
@@ -42,17 +54,5 @@
   {
     "Abbreviation": "YOLO",
     "Definition": "You only live once"
-  },
-  {
-    "Abbreviation": "IRL",
-    "Definition": "In Real Life"
-  },
-  {
-    "Abbreviation": "AFK",
-    "Definition": "Away From Keyboard"
-  },
-  {
-    "Abbreviation": "BRB",
-    "Definition": "Be Right Back"
   }
 ]

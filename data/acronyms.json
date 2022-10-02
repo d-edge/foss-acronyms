@@ -72,6 +72,12 @@
     "Example": "<a href=\"https://en.wikipedia.org/wiki/Don%27t_repeat_yourself\">Wikipedia</a>"
   },
   {
+    "Abbreviation": "DTO",
+    "Definition": "Data Transfer Object",
+    "Usage": "",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Data_transfer_object\">DTO Wikipedia</a>"
+  },
+  {
     "Abbreviation": "ETA",
     "Definition": "Estimated Time of Arrival",
     "Usage": "To ask when something will be ready",
@@ -322,11 +328,5 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
-  },
-  {
-    "Abbreviation": "DTO",
-    "Definition": "Data Transfer Object",
-    "Usage": "",
-    "Example": "<a href=\"https://en.wikipedia.org/wiki/Data_transfer_object\">DTO Wikipedia</a>"
   }
 ]
