@@ -14,7 +14,7 @@
   {
     "Abbreviation": "AFAIK",
     "Definition": "As Far As I Know",
-    "Usage": "",
+    "Usage": "AFAIK, he will be away for three months.",
     "Example": "<a href=\"https://github.com/d-edge/Diffract/issues/1#issuecomment-946781621\">Diffract</a>"
   },
   {
@@ -322,5 +322,11 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "DTO",
+    "Definition": "Data Transfer Object",
+    "Usage": "",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Data_transfer_object\">DTO Wikipedia</a>"
   }
 ]
