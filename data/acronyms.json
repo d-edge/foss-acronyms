@@ -240,6 +240,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
   },
   {
+    "Abbreviation": "RICE",
+    "Definition": "Race Inspired Cosmetic Enhancements",
+    "Usage": "In the context of FOSS it is usually a customised Desktop Environment in Linux, such as Arch users who will config every component of their OS to look and behave how they wish and to suit their particular workflow",
+    "Example": "<a href="https://www.reddit.com/r/linux/comments/vo9jgr/comment/iedvq2h/?utm_source=share&utm_medium=web2x&context=3">Reddit comment</a>", "<a href="https://www.urbandictionary.com/define.php?term=rice&defid=955541>Urban Dictionary</a>, <a href="https://www.reddit.com/r/unixporn/">r/Unixporn</a>"
+  },
+  {
     "Abbreviation": "RFC",
     "Definition": "Request For Comments",
     "Usage": "",
