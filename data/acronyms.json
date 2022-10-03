@@ -352,5 +352,23 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "SE",
+    "Definition": "Software Engineer or System Engineer",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "SWE",
+    "Definition": "SoftWare Engineer",
+    "Usage": "",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "SRE",
+    "Definition": "Site Reliability Engineer",
+    "Usage": "",
+    "Example": ""
   }
 ]
