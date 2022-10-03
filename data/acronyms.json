@@ -352,5 +352,11 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "DI/DIP",
+    "Definition": "Dependency Inversion Principle",
+    "Usage": "The higher-level orchestrating components should not have to know the details of their dependencies",
+    "Example": "https://github.com/dwmkerr/hacker-laws#the-dependency-inversion-principle"
   }
 ]
