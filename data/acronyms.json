@@ -352,5 +352,11 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "WYSIWYG",
+    "Definition": "What You See Is What You Get",
+    "Usage": "It is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product. It is typically used an arbitrary markup language to define the codes/tags",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/WYSIWYG\">WYSIWYG</a>"
   }
 ]
