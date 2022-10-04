@@ -72,6 +72,12 @@
     "Example": ""
   },
   {
+    "Abbreviation": "DI/DIP",
+    "Definition": "Dependency Inversion Principle",
+    "Usage": "The higher-level orchestrating components should not have to know the details of their dependencies",
+    "Example": "<a href=\"https://github.com/dwmkerr/hacker-laws#the-dependency-inversion-principle\">Hacker Laws</a>"
+  },
+  {
     "Abbreviation": "DRY",
     "Definition": "Don't Repeat Yourself",
     "Usage": "This is used in couple with modular programming, and emphasize on code reusability",
@@ -358,11 +364,5 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": ""
-  },
-  {
-    "Abbreviation": "DI/DIP",
-    "Definition": "Dependency Inversion Principle",
-    "Usage": "The higher-level orchestrating components should not have to know the details of their dependencies",
-    "Example": "<a href=\"https://github.com/dwmkerr/hacker-laws#the-dependency-inversion-principle\">Hacker Laws</a>"
   }
 ]
