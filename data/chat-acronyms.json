@@ -36,6 +36,10 @@
     "Definition": "Let me know"
   },
   {
+    "Abbreviation": "LOL",
+    "Definition": "Laugh out loud"
+  },
+  {
     "Abbreviation": "NVM",
     "Definition": "Never mind"
   },
@@ -58,9 +62,5 @@
   {
     "Abbreviation": "YOLO",
     "Definition": "You only live once"
-  },
-  {
-    "Abbreviation": "LOL",
-    "Definition": "Laugh out loud"
   }
 ]
