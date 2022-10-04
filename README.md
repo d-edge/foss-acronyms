@@ -84,7 +84,8 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 <tr ><td class="abbreviation-td td_text">WYSIWYG</td><td class="definition-td td_text">What You See Is What You Get</td><td class="usage-td td_text">It is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product. It is typically used an arbitrary markup language to define the codes/tags</td><td class="example-td td_text"><a href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a></td></tr>
 <tr ><td class="abbreviation-td td_text">XP</td><td class="definition-td td_text">Extreme Programming</td><td class="usage-td td_num"></td><td class="example-td td_text"><a href="https://en.wikipedia.org/wiki/Extreme_programming">Wikipedia</td></tr>
 <tr ><td class="abbreviation-td td_text">YAGNI</td><td class="definition-td td_text">You Ain't Gonna Need It</td><td class="usage-td td_num"></td><td class="example-td td_num"></td></tr>
-<tr ><td class="abbreviation-td td_text">YMMV</td><td class="definition-td td_text">Your Mileage May Vary</td><td class="usage-td td_num"></td><td class="example-td td_num"></td></tr></tbody></table>
+<tr ><td class="abbreviation-td td_text">YMMV</td><td class="definition-td td_text">Your Mileage May Vary</td><td class="usage-td td_num"></td><td class="example-td td_num"></td></tr>
+<tr ><td class="abbreviation-td td_text">RACI</td><td class="definition-td td_text">Responsible, Accountable, Consulted, and Informed</td><td class="usage-td td_num">A responsibility assignment matrix, also known as RACI matrix or linear responsibility chart, describes the participation by various roles in completing tasks or deliverables for a project or business process.</td><td class="example-td td_num"></td></tr> </tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## Common chat acronyms
