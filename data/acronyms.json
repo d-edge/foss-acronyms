@@ -264,6 +264,12 @@
     "Example": ""
   },
   {
+    "Abbreviation": "SE",
+    "Definition": "Software Engineer or System Engineer",
+    "Usage": "",
+    "Example": ""
+  },
+  {
     "Abbreviation": "SOLID",
     "Definition": "Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion",
     "Usage": "5 (of many) software design principles, promoted by Robert \"Uncle Bob\" Martin",
@@ -276,6 +282,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
   },
   {
+    "Abbreviation": "SRE",
+    "Definition": "Site Reliability Engineer",
+    "Usage": "",
+    "Example": ""
+  },
+  {
     "Abbreviation": "SRP",
     "Definition": "Single-Responsibility Principle",
     "Usage": "The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. <a href=\"https://en.wikipedia.org/wiki/Single-responsibility_principle\">wikipedia</a>",
@@ -286,6 +298,12 @@
     "Definition": "Social Summer of Code",
     "Usage": "Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.",
     "Example": "<a href=\"https://getsocialnow.co/event/meeting-or-networking-event-social-summer-of-code/\">Social Summer of Code</a>"
+  },
+  {
+    "Abbreviation": "SWE",
+    "Definition": "SoftWare Engineer",
+    "Usage": "",
+    "Example": ""
   },
   {
     "Abbreviation": "TBD",
@@ -362,24 +380,6 @@
   {
     "Abbreviation": "YMMV",
     "Definition": "Your Mileage May Vary",
-    "Usage": "",
-    "Example": ""
-  },
-  {
-    "Abbreviation": "SE",
-    "Definition": "Software Engineer or System Engineer",
-    "Usage": "",
-    "Example": ""
-  },
-  {
-    "Abbreviation": "SWE",
-    "Definition": "SoftWare Engineer",
-    "Usage": "",
-    "Example": ""
-  },
-  {
-    "Abbreviation": "SRE",
-    "Definition": "Site Reliability Engineer",
     "Usage": "",
     "Example": ""
   }
