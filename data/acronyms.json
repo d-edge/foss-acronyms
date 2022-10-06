@@ -186,6 +186,12 @@
     "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/README.md\">GitHub</a>"
   },
   {
+    "Abbreviation": "MCVE",
+    "Definition": "Minimal Complete Valid/Verfiable Example",
+    "Usage": "When asking a question, people will be better able to provide help if you provide code that they can easily understand and use to reproduce the problem. Such a question will be to the point, include just the information that what is necessary, be valid, and be accompanied by a clear example of your problem which leaves no room for guesswork. This is referred to by community members as MCVE",
+    "Example": "<a href=\"https://dba.stackexchange.com/help/minimal-reproducible-example\">Stack Exchange</a>"
+  },
+  {
     "Abbreviation": "MPA",
     "Definition": "Multi-Page Application",
     "Usage": "",
@@ -196,6 +202,12 @@
     "Definition": "Merge Request",
     "Usage": "See PR",
     "Example": ""
+  },
+  {
+    "Abbreviation": "MRE",
+    "Definition": "Minimal Reproducible Example",
+    "Usage": "In computing, a minimal reproducible example (abbreviated MRE) is a collection of source code and other data files which allow a bug or problem to be demonstrated and reproduced.",
+    "Example": "<a href=\"https://stackoverflow.com/help/minimal-reproducible-example\">Stack Overflow</a>"
   },
   {
     "Abbreviation": "MVP",
@@ -244,6 +256,12 @@
     "Definition": "Pull Request",
     "Usage": "Tell others about changes you've pushed to a branch in a repository",
     "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
+  },
+  {
+    "Abbreviation": "ReprEx ",
+    "Definition": "Reproducible Example",
+    "Usage": "A reprex facilitates easier conversations about your code by presenting it in a concise and repeatable way. A simple copy-paste should be all that’s needed to run the reprex, and running it shouldn’t generate errors except for those that the reprex is intended to exemplify",
+    "Example": "<a href=\"https://reprex.tidyverse.org/articles/learn-reprex.html\">Tidyverse</a>, <a href=\"https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/\">University of Virginia Library</a>"
   },
   {
     "Abbreviation": "RFC",
@@ -375,7 +393,7 @@
     "Abbreviation": "YAGNI",
     "Definition": "You Ain't Gonna Need It",
     "Usage": "",
-    "Example": "<a href=\https://github.com/techexcellenceio/community/discussions/26\">Tech Excellence</a>"
+    "Example": "<a href=\"https://github.com/techexcellenceio/community/discussions/26\">Tech Excellence</a>"
   },
   {
     "Abbreviation": "YMMV",
