@@ -258,6 +258,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
   },
   {
+    "Abbreviation": "RCE",
+    "Definition": "Remote Code Execution",
+    "Usage": "Remote code execution is a cyber-attack whereby an attacker can remotely execute commands on someone else’s computing device. Remote code executions (RCEs) usually occur due to malicious malware downloaded by the host and can happen regardless of the device’s geographic location. Remote Code Execution (RCE) is also referred to as Remote Code Evaluation.",
+    "Example": "<a href=\"https://www.checkpoint.com/cyber-hub/cyber-security/what-is-remote-code-execution-rce/\">RCE</a>"
+  },
+  {
     "Abbreviation": "ReprEx ",
     "Definition": "Reproducible Example",
     "Usage": "A reprex facilitates easier conversations about your code by presenting it in a concise and repeatable way. A simple copy-paste should be all that’s needed to run the reprex, and running it shouldn’t generate errors except for those that the reprex is intended to exemplify",
