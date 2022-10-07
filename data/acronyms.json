@@ -270,6 +270,12 @@
     "Example": ""
   },
   {
+    "Abbreviation": "RFP",
+    "Definition": "Request for Proposal",
+    "Usage": "A request for proposal (RFP) is a document that an organization, often a government agency or large enterprise, posts to elicit a response -- a formal bid -- from potential vendors for a desired IT solution. The RFP specifies what the customer is looking for and describes each evaluation criterion on which a vendor's proposal will be assessed.",
+    "Example": "<a href=\"https://www.techtarget.com/searchitchannel/definition/request-for-proposal\">RFP</a>"
+  },
+  {
     "Abbreviation": "RTFM",
     "Definition": "Read The F*****g Manual",
     "Usage": "Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).",
