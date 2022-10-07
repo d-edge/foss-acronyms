@@ -258,6 +258,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
   },
   {
+    "Abbreviation": "RCE",
+    "Definition": "Remote Code Execution",
+    "Usage": "Remote code execution is a cyber-attack whereby an attacker can remotely execute commands on someone else’s computing device. Remote code executions (RCEs) usually occur due to malicious malware downloaded by the host and can happen regardless of the device’s geographic location. Remote Code Execution (RCE) is also referred to as Remote Code Evaluation.",
+    "Example": "<a href=\"https://www.checkpoint.com/cyber-hub/cyber-security/what-is-remote-code-execution-rce/\">RCE</a>"
+  },
+  {
     "Abbreviation": "ReprEx ",
     "Definition": "Reproducible Example",
     "Usage": "A reprex facilitates easier conversations about your code by presenting it in a concise and repeatable way. A simple copy-paste should be all that’s needed to run the reprex, and running it shouldn’t generate errors except for those that the reprex is intended to exemplify",
@@ -268,6 +274,18 @@
     "Definition": "Request For Comments",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "RFI",
+    "Definition": "Request for Information",
+    "Usage": "An RFI (request for information) is a formal process for gathering information from potential suppliers of a good or service. RFIs are intended to be written by customers and sent to potential suppliers. An RFI is typically the first and most broad series of requests intended to narrow down a list of potential vendor candidates.",
+    "Example": "<a href=\"https://www.techtarget.com/searcherp/definition/RFI-request-for-information\">RFI</a>"
+  },
+  {
+    "Abbreviation": "RFP",
+    "Definition": "Request for Proposal",
+    "Usage": "A request for proposal (RFP) is a document that an organization, often a government agency or large enterprise, posts to elicit a response -- a formal bid -- from potential vendors for a desired IT solution. The RFP specifies what the customer is looking for and describes each evaluation criterion on which a vendor's proposal will be assessed.",
+    "Example": "<a href=\"https://www.techtarget.com/searchitchannel/definition/request-for-proposal\">RFP</a>"
   },
   {
     "Abbreviation": "RTFM",
