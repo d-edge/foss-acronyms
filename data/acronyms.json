@@ -57,7 +57,7 @@
     "Abbreviation": "CoC",
     "Definition": "Code of Conduct",
     "Usage": "",
-    "Example": ""
+    "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/CODE_OF_CONDUCT.md\">Our Code of Conduct</a>"
   },
   {
     "Abbreviation": "Concept ACK",
@@ -70,6 +70,12 @@
     "Definition": "Devlopment Operations",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "DI/DIP",
+    "Definition": "Dependency Inversion Principle",
+    "Usage": "The higher-level orchestrating components should not have to know the details of their dependencies",
+    "Example": "<a href=\"https://github.com/dwmkerr/hacker-laws#the-dependency-inversion-principle\">Hacker Laws</a>"
   },
   {
     "Abbreviation": "DRY",
@@ -180,6 +186,12 @@
     "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/README.md\">GitHub</a>"
   },
   {
+    "Abbreviation": "MCVE",
+    "Definition": "Minimal Complete Valid/Verfiable Example",
+    "Usage": "When asking a question, people will be better able to provide help if you provide code that they can easily understand and use to reproduce the problem. Such a question will be to the point, include just the information that what is necessary, be valid, and be accompanied by a clear example of your problem which leaves no room for guesswork. This is referred to by community members as MCVE",
+    "Example": "<a href=\"https://dba.stackexchange.com/help/minimal-reproducible-example\">Stack Exchange</a>"
+  },
+  {
     "Abbreviation": "MPA",
     "Definition": "Multi-Page Application",
     "Usage": "",
@@ -190,6 +202,12 @@
     "Definition": "Merge Request",
     "Usage": "See PR",
     "Example": ""
+  },
+  {
+    "Abbreviation": "MRE",
+    "Definition": "Minimal Reproducible Example",
+    "Usage": "In computing, a minimal reproducible example (abbreviated MRE) is a collection of source code and other data files which allow a bug or problem to be demonstrated and reproduced.",
+    "Example": "<a href=\"https://stackoverflow.com/help/minimal-reproducible-example\">Stack Overflow</a>"
   },
   {
     "Abbreviation": "MVP",
@@ -240,10 +258,34 @@
     "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
   },
   {
+    "Abbreviation": "RCE",
+    "Definition": "Remote Code Execution",
+    "Usage": "Remote code execution is a cyber-attack whereby an attacker can remotely execute commands on someone else’s computing device. Remote code executions (RCEs) usually occur due to malicious malware downloaded by the host and can happen regardless of the device’s geographic location. Remote Code Execution (RCE) is also referred to as Remote Code Evaluation.",
+    "Example": "<a href=\"https://www.checkpoint.com/cyber-hub/cyber-security/what-is-remote-code-execution-rce/\">RCE</a>"
+  },
+  {
+    "Abbreviation": "ReprEx ",
+    "Definition": "Reproducible Example",
+    "Usage": "A reprex facilitates easier conversations about your code by presenting it in a concise and repeatable way. A simple copy-paste should be all that’s needed to run the reprex, and running it shouldn’t generate errors except for those that the reprex is intended to exemplify",
+    "Example": "<a href=\"https://reprex.tidyverse.org/articles/learn-reprex.html\">Tidyverse</a>, <a href=\"https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/\">University of Virginia Library</a>"
+  },
+  {
     "Abbreviation": "RFC",
     "Definition": "Request For Comments",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "RFI",
+    "Definition": "Request for Information",
+    "Usage": "An RFI (request for information) is a formal process for gathering information from potential suppliers of a good or service. RFIs are intended to be written by customers and sent to potential suppliers. An RFI is typically the first and most broad series of requests intended to narrow down a list of potential vendor candidates.",
+    "Example": "<a href=\"https://www.techtarget.com/searcherp/definition/RFI-request-for-information\">RFI</a>"
+  },
+  {
+    "Abbreviation": "RFP",
+    "Definition": "Request for Proposal",
+    "Usage": "A request for proposal (RFP) is a document that an organization, often a government agency or large enterprise, posts to elicit a response -- a formal bid -- from potential vendors for a desired IT solution. The RFP specifies what the customer is looking for and describes each evaluation criterion on which a vendor's proposal will be assessed.",
+    "Example": "<a href=\"https://www.techtarget.com/searchitchannel/definition/request-for-proposal\">RFP</a>"
   },
   {
     "Abbreviation": "RTFM",
@@ -255,6 +297,12 @@
     "Abbreviation": "SCM",
     "Definition": "Source Code Management",
     "Usage": "See VCS",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "SE",
+    "Definition": "Software Engineer or System Engineer",
+    "Usage": "",
     "Example": ""
   },
   {
@@ -270,6 +318,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
   },
   {
+    "Abbreviation": "SRE",
+    "Definition": "Site Reliability Engineer",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/upgundecha/howtheysre\">How They SRE</a>",
+  },
+  {
     "Abbreviation": "SRP",
     "Definition": "Single-Responsibility Principle",
     "Usage": "The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. <a href=\"https://en.wikipedia.org/wiki/Single-responsibility_principle\">wikipedia</a>",
@@ -280,6 +334,12 @@
     "Definition": "Social Summer of Code",
     "Usage": "Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.",
     "Example": "<a href=\"https://getsocialnow.co/event/meeting-or-networking-event-social-summer-of-code/\">Social Summer of Code</a>"
+  },
+  {
+    "Abbreviation": "SWE",
+    "Definition": "SoftWare Engineer",
+    "Usage": "",
+    "Example": ""
   },
   {
     "Abbreviation": "TBD",
@@ -351,18 +411,18 @@
     "Abbreviation": "YAGNI",
     "Definition": "You Ain't Gonna Need It",
     "Usage": "",
-    "Example": ""
+    "Example": "<a href=\"https://github.com/techexcellenceio/community/discussions/26\">Tech Excellence</a>"
   },
   {
     "Abbreviation": "YMMV",
     "Definition": "Your Mileage May Vary",
     "Usage": "",
-    "Example": ""
+    "Example": "<a href=\"https://github.com/openai/whisper/discussions/50#discussioncomment-3713986\">Whisper</a>"
   },
   {
     "Abbreviation": "RACI",
     "Definition": "Responsible, Accountable, Consulted, and Informed",
     "Usage": "A responsibility assignment matrix, also known as RACI matrix or linear responsibility chart, describes the participation by various roles in completing tasks or deliverables for a project or business process.",
-    "Example": ""
+    "Example": "<a href=\https://www.ibm.com/garage/method/practices/manage/raci-matrix/\">IBM</a>"
   }
 ]
