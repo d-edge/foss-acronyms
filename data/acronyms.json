@@ -418,5 +418,11 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": "<a href=\"https://github.com/openai/whisper/discussions/50#discussioncomment-3713986\">Whisper</a>"
+  },
+  {
+    "Abbreviation": "RACI",
+    "Definition": "Responsible, Accountable, Consulted, and Informed",
+    "Usage": "A responsibility assignment matrix, also known as RACI matrix or linear responsibility chart, describes the participation by various roles in completing tasks or deliverables for a project or business process.",
+    "Example": "<a href=\https://www.ibm.com/garage/method/practices/manage/raci-matrix/\">IBM</a>"
   }
 ]
