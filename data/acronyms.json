@@ -264,6 +264,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/vuejs/comments/qh5oeu/the_vuejs_framework_repository_summary/hic9siz/\">/r/vuejs</a>"
   },
   {
+    "Abbreviation": "RACI",
+    "Definition": "Responsible, Accountable, Consulted, and Informed",
+    "Usage": "A responsibility assignment matrix, also known as RACI matrix or linear responsibility chart, describes the participation by various roles in completing tasks or deliverables for a project or business process.",
+    "Example": "<a href=\"https://www.ibm.com/garage/method/practices/manage/raci-matrix/\">IBM</a>"
+  },
+  {
     "Abbreviation": "RCE",
     "Definition": "Remote Code Execution",
     "Usage": "Remote code execution is a cyber-attack whereby an attacker can remotely execute commands on someone else’s computing device. Remote code executions (RCEs) usually occur due to malicious malware downloaded by the host and can happen regardless of the device’s geographic location. Remote Code Execution (RCE) is also referred to as Remote Code Evaluation.",
@@ -424,11 +430,5 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": "<a href=\"https://github.com/openai/whisper/discussions/50#discussioncomment-3713986\">Whisper</a>"
-  },
-  {
-    "Abbreviation": "RACI",
-    "Definition": "Responsible, Accountable, Consulted, and Informed",
-    "Usage": "A responsibility assignment matrix, also known as RACI matrix or linear responsibility chart, describes the participation by various roles in completing tasks or deliverables for a project or business process.",
-    "Example": "<a href=\"https://www.ibm.com/garage/method/practices/manage/raci-matrix/\">IBM</a>"
   }
 ]
