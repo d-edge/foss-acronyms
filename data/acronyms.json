@@ -216,16 +216,16 @@
     "Example": "<a href=\"https://niroshanratnayake.medium.com/mvc-architecture-simply-explained-124729732c67\">Medium</a>"
   },
   {
-    "Abbreviation": "MVVM",
-    "Definition": "Model View ViewModel",
-    "Usage": "A front-end software design architecture based around the Model (data), the View (user interface), and the ViewModel (logic that handles view data and interactions).",
-    "Example": "<a href=\"https://knockoutjs.com/documentation/observables.html\">Knockout MVVM Explanation</a>"
-  },
-  {
     "Abbreviation": "MVP",
     "Definition": "Minimum Viable Product",
     "Usage": "A prototype version of a product with the minimum required feature set",
     "Example": "<a href=\"https://en.wikipedia.org/wiki/Minimum_viable_product\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "MVVM",
+    "Definition": "Model View ViewModel",
+    "Usage": "A front-end software design architecture based around the Model (data), the View (user interface), and the ViewModel (logic that handles view data and interactions).",
+    "Example": "<a href=\"https://knockoutjs.com/documentation/observables.html\">Knockout MVVM Explanation</a>"
   },
   {
     "Abbreviation": "NACK/NAK",
