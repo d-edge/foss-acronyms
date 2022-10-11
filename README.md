@@ -110,6 +110,7 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 <tr ><td class="abbreviation-td td_text">ILY</td><td class="definition-td td_text">I love you</td></tr>
 <tr ><td class="abbreviation-td td_text">IRL</td><td class="definition-td td_text">In Real Life</td></tr>
 <tr ><td class="abbreviation-td td_text">IYKYK</td><td class="definition-td td_text">If You Know You Know</td></tr>
+<tr ><td class="abbreviation-td td_text">LFG</td><td class="definition-td td_text">let's freaking go</td></tr>
 <tr ><td class="abbreviation-td td_text">LMFAO</td><td class="definition-td td_text">Laughing my freaking *a* off</td></tr>
 <tr ><td class="abbreviation-td td_text">LMK</td><td class="definition-td td_text">Let me know</td></tr>
 <tr ><td class="abbreviation-td td_text">LOL</td><td class="definition-td td_text">Laugh out loud</td></tr>
