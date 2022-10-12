@@ -261,7 +261,7 @@
     "Abbreviation": "PEBCAK",
     "Definition": "Problem Exists Between Keyboard and Chair",
     "Usage": "It is a user error, not a problem / bug in the program",
-    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>, <a href=\https://github.com/orgs/community/discussions/25165#discussioncomment-3246690\">Community</a>"
+    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>, <a href=\"https://github.com/orgs/community/discussions/25165#discussioncomment-3246690\">Community</a>"
   },
   {
     "Abbreviation": "PR",
