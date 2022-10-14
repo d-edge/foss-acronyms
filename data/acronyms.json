@@ -138,6 +138,12 @@
     "Example": "<a href=\"https://github.com/ArduPilot/MissionPlanner/issues/2216\">ArduPilot</a>, <a href=\"https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400\">F#'s slack</a>"
   },
   {
+    "Abbreviation": "GUI",
+    "Definition": "Graphical User Interface",
+    "Usage": "The GUI makes it very simple for beginners to use",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Graphical_user_interface\">Wikipedia page for GUI</a>"
+  },
+  {
     "Abbreviation": "IANAL",
     "Definition": "I Am Not A Lawyer",
     "Usage": "Used often before talking about licensing issues",
