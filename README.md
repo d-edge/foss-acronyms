@@ -120,6 +120,7 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 <tr ><td class="abbreviation-td td_text">ROFL</td><td class="definition-td td_text">Rolling on floor laughing</td></tr>
 <tr ><td class="abbreviation-td td_text">SMH</td><td class="definition-td td_text">Shaking my head</td></tr>
 <tr ><td class="abbreviation-td td_text">STFU</td><td class="definition-td td_text">Shut the *freak* up</td></tr>
+<tr ><td class="abbreviation-td td_text">TTYL</td><td class="definition-td td_text">Talk to you later</td></tr>
 <tr ><td class="abbreviation-td td_text">TYVM</td><td class="definition-td td_text">Thank you very much</td></tr>
 <tr ><td class="abbreviation-td td_text">YOLO</td><td class="definition-td td_text">You only live once</td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
