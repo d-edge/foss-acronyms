@@ -64,15 +64,15 @@
     "Definition": "Shut the *freak* up"
   },
   {
+    "Abbreviation": "TTYL",
+    "Definition": "Talk to you later"
+  },
+  {
     "Abbreviation": "TYVM",
     "Definition": "Thank you very much"
   },
   {
     "Abbreviation": "YOLO",
     "Definition": "You only live once"
-  },
-  {
-    "Abbreviation": "TTYL",
-    "Definition": "Talk to you later"
   }
 ]
