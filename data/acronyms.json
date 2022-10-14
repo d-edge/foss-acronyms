@@ -48,6 +48,12 @@
     "Example": "<a href=\"https://github.com/playframework/playframework/pull/616#issuecomment-11394747\">Play Framework</a>, <a href=\"https://cla.opensource.microsoft.com/\">Microsoft</a>"
   },
   {
+    "Abbreviation": "CLI",
+    "Definition": "Command Line Interface",
+    "Usage": "I prefer using the CLI because it is faster.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Command-line_interface\">Wikipedia page for CLI</a>"
+  },
+  {
     "Abbreviation": "CMV",
     "Definition": "Change My View",
     "Usage": "",
