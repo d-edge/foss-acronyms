@@ -115,9 +115,11 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 <tr ><td class="abbreviation-td td_text">LMFAO</td><td class="definition-td td_text">Laughing my freaking *a* off</td></tr>
 <tr ><td class="abbreviation-td td_text">LMK</td><td class="definition-td td_text">Let me know</td></tr>
 <tr ><td class="abbreviation-td td_text">LOL</td><td class="definition-td td_text">Laugh out loud</td></tr>
+<tr ><td class="abbreviation-td td_text">LTR</td><td class="definition-td td_text">Left To Right</td></tr>
 <tr ><td class="abbreviation-td td_text">NVM</td><td class="definition-td td_text">Never mind</td></tr>
 <tr ><td class="abbreviation-td td_text">OFC</td><td class="definition-td td_text">Of course</td></tr>
 <tr ><td class="abbreviation-td td_text">ROFL</td><td class="definition-td td_text">Rolling on floor laughing</td></tr>
+<tr ><td class="abbreviation-td td_text">RTL</td><td class="definition-td td_text">Right To Left</td></tr>
 <tr ><td class="abbreviation-td td_text">SMH</td><td class="definition-td td_text">Shaking my head</td></tr>
 <tr ><td class="abbreviation-td td_text">STFU</td><td class="definition-td td_text">Shut the *freak* up</td></tr>
 <tr ><td class="abbreviation-td td_text">TTYL</td><td class="definition-td td_text">Talk to you later</td></tr>
