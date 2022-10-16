@@ -101,6 +101,12 @@
     "Usage": "Guidelines to make onboarding and development of a project easy to get into and maintain",
     "Example": "<a href=\"https://github.com/near/near-explorer/issues/803\">Near (Github)</a>"
   },
+   {
+    "Abbreviation": "EBKAC",
+    "Definition": "Error Between Keyboard And Chair",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
   {
     "Abbreviation": "ETA",
     "Definition": "Estimated Time of Arrival",
@@ -271,9 +277,39 @@
   },
   {
     "Abbreviation": "PEBCAK",
-    "Definition": "Problem Exists Between Keyboard and Chair",
+    "Definition": "Problem Exists Between Chair And Keyboard",
     "Usage": "It is a user error, not a problem / bug in the program",
     "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>, <a href=\"https://github.com/orgs/community/discussions/25165#discussioncomment-3246690\">Community</a>"
+  },
+  {
+    "Abbreviation": "PEBKAC",
+    "Definition": "Problem Exists Between Keyboard And Chair",
+    "Usage": "It is a user error, not a problem / bug in the program",
+    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>, <a href=\"https://github.com/orgs/community/discussions/25165#discussioncomment-3246690\">Community</a>"
+  },
+  {
+    "Abbreviation": "PEBMAC",
+    "Definition": "Problem Exists Between Monitor And Chair",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
+  {
+    "Abbreviation": "PEBUAK",
+    "Definition": "Problem Exists Between User and Keyboard",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
+  {
+    "Abbreviation": "PICNIC",
+    "Definition": "Problem In Chair Not In Computer",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
+  {
+    "Abbreviation": "POBCAK",
+    "Definition": "a US government/military acronym for Problem Occurs Between Chair And Keyboard",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>, <a href=\"https://en.wikipedia.org/wiki/List_of_U.S._government_and_military_acronyms#P\">List of U.S. government and military acronyms</a>"
   },
   {
     "Abbreviation": "PR",
