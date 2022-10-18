@@ -161,9 +161,20 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 
------
+## Related document
 
 - [The Jargon File](http://www.catb.org/jargon/html/index.html)
 - [Bitcoin's CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#peer-review)
 - [Bitcoin hacker lingo (stolen from TCP)](https://nitter.vxempire.xyz/jgarzik/status/601815506291531776)
 - [What do cryptic Github comments mean?](https://www.freecodecamp.org/news/what-do-cryptic-github-comments-mean-9c1912bcc0a4/)
+
+## Want to support us?
+
+* Don't forget to give a star to this repo on GitHub!
+* Share your feedback and ideas to improve the collection!
+* Share the collection on your favorite social media and your friends!
+* Help us to improve the collection!
+
+## License
+
+[CC0 1.0 Universal](./LICENSE)
