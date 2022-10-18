@@ -101,7 +101,7 @@
     "Usage": "Guidelines to make onboarding and development of a project easy to get into and maintain",
     "Example": "<a href=\"https://github.com/near/near-explorer/issues/803\">Near (Github)</a>"
   },
-   {
+  {
     "Abbreviation": "EBKAC",
     "Definition": "Error Between Keyboard And Chair",
     "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
