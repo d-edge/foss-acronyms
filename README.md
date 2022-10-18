@@ -170,7 +170,7 @@ If you are only going to use the acronym once, maybe don't use it at all and rel
 
 ## Want to support us?
 
-* Don't forget to give a star to this repo on GitHub!
+* Don't forget to give a ⭐ to this repo on GitHub!
 * Share your feedback and ideas to improve the collection!
 * Share the collection on your favorite social media and your friends!
 * Help us to improve the collection!
