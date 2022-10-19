@@ -23,6 +23,12 @@
     "URL": "https://microsoft.com",
     "What they do": "Makers of windows, azure, vscode, and other tools that might be relevent to developers"
   },
+   {
+    "Abbreviation": "AWS",
+    "Meaning": "Amazon web Services",
+    "URL": "https://aws.amazon.com/",
+    "What they do": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services."
+  },
   {
     "Abbreviation": "OSI",
     "Meaning": "Open Source Initiative",
