@@ -40,5 +40,11 @@
     "Meaning": "StackOverflow",
     "URL": "https://stackoverflow.com",
     "What they do": "Popular question and answer website"
-  }
+  },
+  {
+    "Abbreviation": "YT",
+    "Meaning": "VIDEO SHARING AND STREAMING PLATFORM",
+    "URL": "https://www.youtube.com/",
+    "What they do": "YouTube is an American online video sharing and social media platform headquartered in San Bruno, California."
+  },
 ]
