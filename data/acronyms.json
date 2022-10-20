@@ -195,7 +195,7 @@
     "Abbreviation": "LGTM",
     "Definition": "Looks Good To Me",
     "Usage": "See ACK",
-    "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>"
+    "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>, <a href=\"https://www.reddit.com/r/webdev/comments/y8k5q0/yeah_hey_whats_this/it12mr0/\">/r/webdev</a>"
   },
   {
     "Abbreviation": "LOC/SLOC",
