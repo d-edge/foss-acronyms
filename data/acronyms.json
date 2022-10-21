@@ -414,6 +414,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/ProgrammerTIL/\">/r/ProgrammerTIL/</a>"
   },
   {
+    "Abbreviation": "UML",
+    "Definition": "Unified Modeling Language",
+    "Usage": "A language for visualizing system design with all its classes, objects, and components, etc.",
+    "Example": "<a href=\"https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/\">Geeks for Geeks UML</a>"
+  },
+  {
     "Abbreviation": "utACK",
     "Definition": "UnTested ACKnowledgment",
     "Usage": "Reviewed and agree with the code changes but haven't actually tested them",
