@@ -84,6 +84,12 @@
     "Example": "<a href=\"https://github.com/dwmkerr/hacker-laws#the-dependency-inversion-principle\">Hacker Laws</a>"
   },
   {
+    "Abbreviation": "DoD",
+    "Definition": "Definition of Done",
+    "Usage": "When all conditions, or acceptance criteria, that a software product must satisfy are met and ready to be accepted by a user, customer, team, or consuming system.",
+    "Example": "<a href=\"https://www.leadingagile.com/2017/02/definition-of-done/\">DEFINITION OF DONE</a>"
+  },
+  {
     "Abbreviation": "DRY",
     "Definition": "Don't Repeat Yourself",
     "Usage": "This is used in couple with modular programming, and emphasize on code reusability",
