@@ -234,22 +234,10 @@
     "Example": "<a href=\"https://stackoverflow.com/help/minimal-reproducible-example\">Stack Overflow</a>"
   },
   {
-    "Abbreviation": "MVC",
-    "Definition": "Model View Controller",
-    "Usage": "A commonly used software design architecture based around the Model (data), the View (user interface), and the Controller (logic to handle requests).",
-    "Example": "<a href=\"https://niroshanratnayake.medium.com/mvc-architecture-simply-explained-124729732c67\">Medium</a>"
-  },
-  {
     "Abbreviation": "MVP",
     "Definition": "Minimum Viable Product",
     "Usage": "A prototype version of a product with the minimum required feature set",
     "Example": "<a href=\"https://en.wikipedia.org/wiki/Minimum_viable_product\">Wikipedia</a>"
-  },
-  {
-    "Abbreviation": "MVVM",
-    "Definition": "Model View ViewModel",
-    "Usage": "A front-end software design architecture based around the Model (data), the View (user interface), and the ViewModel (logic that handles view data and interactions).",
-    "Example": "<a href=\"https://knockoutjs.com/documentation/observables.html\">Knockout MVVM Explanation</a>"
   },
   {
     "Abbreviation": "NACK/NAK",
@@ -438,10 +426,10 @@
     "Example": "<a href=\"https://www.reddit.com/r/ProgrammerTIL/\">/r/ProgrammerTIL/</a>"
   },
   {
-    "Abbreviation": "TYSM",
-    "Definition": "Thank You So Much",
-    "Usage": "",
-    "Example": "<a href=\"https://www.cyberdefinitions.com/definitions/TYSM.html\">Cyber Definitions</a>"
+    "Abbreviation": "UML",
+    "Definition": "Unified Modeling Language",
+    "Usage": "A language for visualizing system design with all its classes, objects, and components, etc.",
+    "Example": "<a href=\"https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/\">Geeks for Geeks UML</a>"
   },
   {
     "Abbreviation": "utACK",
