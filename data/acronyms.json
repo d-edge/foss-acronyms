@@ -306,6 +306,18 @@
     "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>, <a href=\"https://en.wikipedia.org/wiki/List_of_U.S._government_and_military_acronyms#P\">List of U.S. government and military acronyms</a>"
   },
   {
+    "Abbreviation": "POCO",
+    "Definition": "In software engineering, a Plain Old CLR Object, or plain old class object is a simple object created in the .NET Common Language Runtime (CLR) that is not using inheritance nor attributes.",
+    "Usage": "This abbreviation is often used when discussing library APIs or interfaces in which data is exchanged to denote that the object is simple to use.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Plain_old_CLR_object\">POCO Definition</a>"
+  },
+  {
+    "Abbreviation": "POJO",
+    "Definition": "In software engineering, a Plain Old Java Object is an ordinary Java object, not bound by any special restrictions (extends, implements, prespecified annocations).",
+    "Usage": "This abbreviation is often used when discussing library APIs or interfaces in which data is exchanged to denote that the object is simple to interact with.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Plain_old_Java_object\">POJO Definition</a>"
+  },
+  {
     "Abbreviation": "PR",
     "Definition": "Pull Request",
     "Usage": "Tell others about changes you've pushed to a branch in a repository",
