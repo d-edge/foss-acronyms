@@ -84,6 +84,12 @@
     "Example": ""
   },
   {
+    "Abbreviation": "DAG",
+    "Definition": "In graph theory and computer science a Directed Acyclic Graph consists of vertices and directed edges between vertices such as following the direction of the edges will never form a closed loop.",
+    "Usage":"Data flow diagrams and many many tree data structures are directed acyclic graphs. In DAGs topological sort algorithms work in linear time.",
+    "Example":"<a href=\"https://en.wikipedia.org/wiki/Directed_acyclic_graph\">Wikipedia page for DAG</a>"
+  },
+  {
     "Abbreviation": "DI/DIP",
     "Definition": "Dependency Inversion Principle",
     "Usage": "The higher-level orchestrating components should not have to know the details of their dependencies",
@@ -373,9 +379,15 @@
   },
   {
     "Abbreviation": "RTFM",
-    "Definition": "Read The F*****g Manual",
+    "Definition": "Read The 'Fine' Manual aka Read The 'F*****g' Manual",
     "Usage": "Originally a way for the _gurus_ to get rid of trivial questions from newbies, now a humble way to state that a mistake or a waste of time can be avoided by reading the freaking manual first (assuming it exists).",
     "Example": "<a href=\"https://xkcd.com/293/\">XKCD comic</a>, <a href=\"https://github.com/search?q=RTFM&type=Commits\">Github commits</a>"
+  },
+  {
+    "Abbreviation": "RTFA",
+    "Definition": "Read The 'Fine' Article aka Read The 'F*****g' Article",
+    "Usage": "A sarcastic way to indicate that it would help to read the full article before asking questions. Many synonyms with different adverbs and different document types exists. See also RTFM.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/RTFM#List_of_similar_initialisms\">Similar Abbreviations</a>"
   },
   {
     "Abbreviation": "SCM",
@@ -430,6 +442,12 @@
     "Definition": "To Be Defined/Done",
     "Usage": "",
     "Example": "<a href=\"https://github.com/softwarecrafters/website/blob/0a3a1c5b303c3361dccd985cd25348fde06b84c5/README.md?plain=1#L66\">Software Craft Website</a>"
+  },
+  {
+    "Abbreviation": "TFA",
+    "Definition": "The 'Fine' Article aka The 'F*****g' Article (in chat lingo), or in signal processing Time Frequency Analysis indicating the simultaneous analysis of a signal in time and frequency domains.",
+    "Usage": "A sarcastic way to refer to an article. Or a way to refer to the analysis of repeating patterns in data over time.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/RTFM#List_of_similar_initialisms\">Wikipedia RTFM - Similar Abbreviations</a>, <a href=\"https://en.wikipedia.org/wiki/Time%E2%80%93frequency_analysis\">Wikipedia on Time-Frequency Analysis</a>"
   },
   {
     "Abbreviation": "tested ACK",
