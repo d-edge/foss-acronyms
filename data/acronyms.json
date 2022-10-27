@@ -42,6 +42,12 @@
     "Example": ""
   },
   {
+    "Abbreviation": "CFP",
+    "Definition": "A Call For Papers (CFP) is an announcement conference organizers to speakers and scientists to submit their manuscript for review and publication in the conference journal.",
+    "Usage": "Conferences set a deadlines for their CFP so authors know when to have their publication ready for review.",
+    "Example": "<a href=\"https://wikicfp.com/\">Wiki for Calls For Papers</a>"
+  },
+  {
     "Abbreviation": "CLA",
     "Definition": "Contributor License Agreement",
     "Usage": "",
