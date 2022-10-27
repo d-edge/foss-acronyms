@@ -30,6 +30,11 @@
     "Example": ""
   },
   {
+    "Abbreviation": "MEVN",
+    "Definition": "MongoDB, Express.js, Vue.js, Node.js",
+    "Example": "<a href=\"https://www.educative.io/answers/what-is-mevn-stack\">What is MEVN stack?</a>"
+  },
+  {
     "Abbreviation": "SAFE",
     "Definition": "Suave (or Saturn), Azure, Fable, Elmish",
     "Example": "<a href=\"https://www.reddit.com/r/fsharp/comments/r1fw4r/is_there_any_eta_on_safe_stack_supporting_net_6/\">/r/fsharp</a>"
