@@ -48,6 +48,12 @@
     "Example": "<a href=\"https://github.com/playframework/playframework/pull/616#issuecomment-11394747\">Play Framework</a>, <a href=\"https://cla.opensource.microsoft.com/\">Microsoft</a>"
   },
   {
+    "Abbreviation": "CLI",
+    "Definition": "Command Line Interface",
+    "Usage": "I prefer using the CLI because it is faster.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Command-line_interface\">Wikipedia page for CLI</a>"
+  },
+  {
     "Abbreviation": "CMV",
     "Definition": "Change My View",
     "Usage": "",
@@ -57,7 +63,7 @@
     "Abbreviation": "CoC",
     "Definition": "Code of Conduct",
     "Usage": "",
-    "Example": ""
+    "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/CODE_OF_CONDUCT.md\">Our Code of Conduct</a>"
   },
   {
     "Abbreviation": "Concept ACK",
@@ -70,6 +76,18 @@
     "Definition": "Devlopment Operations",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "DI/DIP",
+    "Definition": "Dependency Inversion Principle",
+    "Usage": "The higher-level orchestrating components should not have to know the details of their dependencies",
+    "Example": "<a href=\"https://github.com/dwmkerr/hacker-laws#the-dependency-inversion-principle\">Hacker Laws</a>"
+  },
+  {
+    "Abbreviation": "DoD",
+    "Definition": "Definition of Done",
+    "Usage": "When all conditions, or acceptance criteria, that a software product must satisfy are met and ready to be accepted by a user, customer, team, or consuming system.",
+    "Example": "<a href=\"https://www.leadingagile.com/2017/02/definition-of-done/\">DEFINITION OF DONE</a>"
   },
   {
     "Abbreviation": "DRY",
@@ -88,6 +106,12 @@
     "Definition": "Developer Experience",
     "Usage": "Guidelines to make onboarding and development of a project easy to get into and maintain",
     "Example": "<a href=\"https://github.com/near/near-explorer/issues/803\">Near (Github)</a>"
+  },
+  {
+    "Abbreviation": "EBKAC",
+    "Definition": "Error Between Keyboard And Chair",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
   },
   {
     "Abbreviation": "ETA",
@@ -132,6 +156,12 @@
     "Example": "<a href=\"https://github.com/ArduPilot/MissionPlanner/issues/2216\">ArduPilot</a>, <a href=\"https://fsharp.slack.com/archives/C1JH32U5D/p1635256259002400\">F#'s slack</a>"
   },
   {
+    "Abbreviation": "GUI",
+    "Definition": "Graphical User Interface",
+    "Usage": "The GUI makes it very simple for beginners to use",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Graphical_user_interface\">Wikipedia page for GUI</a>"
+  },
+  {
     "Abbreviation": "IANAL",
     "Definition": "I Am Not A Lawyer",
     "Usage": "Used often before talking about licensing issues",
@@ -171,13 +201,19 @@
     "Abbreviation": "LGTM",
     "Definition": "Looks Good To Me",
     "Usage": "See ACK",
-    "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>"
+    "Example": "<a href=\"https://github.com/d-edge/Cardidy/pull/57#pullrequestreview-791829899\">Cardidy</a>, <a href=\"https://github.com/simple-icons/simple-icons/pull/6762#pullrequestreview-799347702\">Simple Icons</a>, <a href=\"https://github.com/tc39/proposal-array-grouping/issues/3#issuecomment-883089358\">proposal-array-grouping</a>, <a href=\"https://www.reddit.com/r/webdev/comments/y8k5q0/yeah_hey_whats_this/it12mr0/\">/r/webdev</a>"
   },
   {
     "Abbreviation": "LOC/SLOC",
     "Definition": "(Source) Lines Of Code",
     "Usage": "Above each file on GitHub you can find something like `50 lines (43 sloc)`. The difference is the empty lines.",
     "Example": "<a href=\"https://github.com/d-edge/foss-acronyms/blob/main/README.md\">GitHub</a>"
+  },
+  {
+    "Abbreviation": "MCVE",
+    "Definition": "Minimal Complete Valid/Verfiable Example",
+    "Usage": "When asking a question, people will be better able to provide help if you provide code that they can easily understand and use to reproduce the problem. Such a question will be to the point, include just the information that what is necessary, be valid, and be accompanied by a clear example of your problem which leaves no room for guesswork. This is referred to by community members as MCVE",
+    "Example": "<a href=\"https://dba.stackexchange.com/help/minimal-reproducible-example\">Stack Exchange</a>"
   },
   {
     "Abbreviation": "MPA",
@@ -192,10 +228,28 @@
     "Example": ""
   },
   {
+    "Abbreviation": "MRE",
+    "Definition": "Minimal Reproducible Example",
+    "Usage": "In computing, a minimal reproducible example (abbreviated MRE) is a collection of source code and other data files which allow a bug or problem to be demonstrated and reproduced.",
+    "Example": "<a href=\"https://stackoverflow.com/help/minimal-reproducible-example\">Stack Overflow</a>"
+  },
+  {
+    "Abbreviation": "MVC",
+    "Definition": "Model View Controller",
+    "Usage": "A commonly used software design architecture based around the Model (data), the View (user interface), and the Controller (logic to handle requests).",
+    "Example": "<a href=\"https://niroshanratnayake.medium.com/mvc-architecture-simply-explained-124729732c67\">Medium</a>"
+  },
+  {
     "Abbreviation": "MVP",
     "Definition": "Minimum Viable Product",
     "Usage": "A prototype version of a product with the minimum required feature set",
     "Example": "<a href=\"https://en.wikipedia.org/wiki/Minimum_viable_product\">Wikipedia</a>"
+  },
+  {
+    "Abbreviation": "MVVM",
+    "Definition": "Model View ViewModel",
+    "Usage": "A front-end software design architecture based around the Model (data), the View (user interface), and the ViewModel (logic that handles view data and interactions).",
+    "Example": "<a href=\"https://knockoutjs.com/documentation/observables.html\">Knockout MVVM Explanation</a>"
   },
   {
     "Abbreviation": "NACK/NAK",
@@ -229,9 +283,39 @@
   },
   {
     "Abbreviation": "PEBCAK",
-    "Definition": "Problem Exists Between Keyboard and Chair",
+    "Definition": "Problem Exists Between Chair And Keyboard",
     "Usage": "It is a user error, not a problem / bug in the program",
-    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>"
+    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>, <a href=\"https://github.com/orgs/community/discussions/25165#discussioncomment-3246690\">Community</a>"
+  },
+  {
+    "Abbreviation": "PEBKAC",
+    "Definition": "Problem Exists Between Keyboard And Chair",
+    "Usage": "It is a user error, not a problem / bug in the program",
+    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/issues/1157#issue-1086741428\">Humanizer</a>, <a href=\"https://github.com/orgs/community/discussions/25165#discussioncomment-3246690\">Community</a>"
+  },
+  {
+    "Abbreviation": "PEBMAC",
+    "Definition": "Problem Exists Between Monitor And Chair",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
+  {
+    "Abbreviation": "PEBUAK",
+    "Definition": "Problem Exists Between User and Keyboard",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
+  {
+    "Abbreviation": "PICNIC",
+    "Definition": "Problem In Chair Not In Computer",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>"
+  },
+  {
+    "Abbreviation": "POBCAK",
+    "Definition": "a US government/military acronym for Problem Occurs Between Chair And Keyboard",
+    "Usage": "It's an error made by the human user of a complex system, usually a computer system, in interacting with it.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/User_error#PEBKAC/PEBCAK/PICNIC\">User error</a>, <a href=\"https://en.wikipedia.org/wiki/List_of_U.S._government_and_military_acronyms#P\">List of U.S. government and military acronyms</a>"
   },
   {
     "Abbreviation": "PR",
@@ -246,10 +330,40 @@
     "Example": "<a href=\"https://www.reddit.com/r/linux/comments/vo9jgr/comment/iedvq2h/\">Reddit comment</a>", "<a href=\"https://www.urbandictionary.com/define.php?term=rice&defid=955541\">Urban Dictionary</a>, <a href=\"https://www.reddit.com/r/unixporn/\">r/Unixporn</a>"
   },
   {
+    "Abbreviation": "RACI",
+    "Definition": "Responsible, Accountable, Consulted, and Informed",
+    "Usage": "A responsibility assignment matrix, also known as RACI matrix or linear responsibility chart, describes the participation by various roles in completing tasks or deliverables for a project or business process.",
+    "Example": "<a href=\"https://www.ibm.com/garage/method/practices/manage/raci-matrix/\">IBM</a>"
+  },
+  {
+    "Abbreviation": "RCE",
+    "Definition": "Remote Code Execution",
+    "Usage": "Remote code execution is a cyber-attack whereby an attacker can remotely execute commands on someone else’s computing device. Remote code executions (RCEs) usually occur due to malicious malware downloaded by the host and can happen regardless of the device’s geographic location. Remote Code Execution (RCE) is also referred to as Remote Code Evaluation.",
+    "Example": "<a href=\"https://www.checkpoint.com/cyber-hub/cyber-security/what-is-remote-code-execution-rce/\">RCE</a>"
+  },
+  {
+    "Abbreviation": "ReprEx ",
+    "Definition": "Reproducible Example",
+    "Usage": "A reprex facilitates easier conversations about your code by presenting it in a concise and repeatable way. A simple copy-paste should be all that’s needed to run the reprex, and running it shouldn’t generate errors except for those that the reprex is intended to exemplify",
+    "Example": "<a href=\"https://reprex.tidyverse.org/articles/learn-reprex.html\">Tidyverse</a>, <a href=\"https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/\">University of Virginia Library</a>"
+  },
+  {
     "Abbreviation": "RFC",
     "Definition": "Request For Comments",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "RFI",
+    "Definition": "Request for Information",
+    "Usage": "An RFI (request for information) is a formal process for gathering information from potential suppliers of a good or service. RFIs are intended to be written by customers and sent to potential suppliers. An RFI is typically the first and most broad series of requests intended to narrow down a list of potential vendor candidates.",
+    "Example": "<a href=\"https://www.techtarget.com/searcherp/definition/RFI-request-for-information\">RFI</a>"
+  },
+  {
+    "Abbreviation": "RFP",
+    "Definition": "Request for Proposal",
+    "Usage": "A request for proposal (RFP) is a document that an organization, often a government agency or large enterprise, posts to elicit a response -- a formal bid -- from potential vendors for a desired IT solution. The RFP specifies what the customer is looking for and describes each evaluation criterion on which a vendor's proposal will be assessed.",
+    "Example": "<a href=\"https://www.techtarget.com/searchitchannel/definition/request-for-proposal\">RFP</a>"
   },
   {
     "Abbreviation": "RTFM",
@@ -261,6 +375,12 @@
     "Abbreviation": "SCM",
     "Definition": "Source Code Management",
     "Usage": "See VCS",
+    "Example": ""
+  },
+  {
+    "Abbreviation": "SE",
+    "Definition": "Software Engineer or System Engineer",
+    "Usage": "",
     "Example": ""
   },
   {
@@ -276,6 +396,12 @@
     "Example": "<a href=\"https://www.reddit.com/r/web_design/comments/uy8z6m/the_balance_has_shifted_away_from_spas/ia2obg1/\" title=\"The balance has shifted away from SPAs\">/r/web_design</a>"
   },
   {
+    "Abbreviation": "SRE",
+    "Definition": "Site Reliability Engineer",
+    "Usage": "",
+    "Example": "<a href=\"https://github.com/upgundecha/howtheysre\">How They SRE</a>"
+  },
+  {
     "Abbreviation": "SRP",
     "Definition": "Single-Responsibility Principle",
     "Usage": "The single-responsibility principle is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. <a href=\"https://en.wikipedia.org/wiki/Single-responsibility_principle\">wikipedia</a>",
@@ -286,6 +412,12 @@
     "Definition": "Social Summer of Code",
     "Usage": "Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.",
     "Example": "<a href=\"https://getsocialnow.co/event/meeting-or-networking-event-social-summer-of-code/\">Social Summer of Code</a>"
+  },
+  {
+    "Abbreviation": "SWE",
+    "Definition": "SoftWare Engineer",
+    "Usage": "",
+    "Example": ""
   },
   {
     "Abbreviation": "TBD",
@@ -342,6 +474,12 @@
     "Example": "<a href=\"https://github.com/timlrx/tailwind-nextjs-starter-blog/issues/340/\">Tailwind Blog</a>, <a href=\"https://news.ycombinator.com/item?id=31775273/\">Hacker News</a>"
   },
   {
+    "Abbreviation": "WYSIWYG",
+    "Definition": "What You See Is What You Get",
+    "Usage": "It is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product. It is typically used an arbitrary markup language to define the codes/tags",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/WYSIWYG\">WYSIWYG</a>"
+  },
+  {
     "Abbreviation": "XP",
     "Definition": "Extreme Programming",
     "Usage": "",
@@ -351,12 +489,12 @@
     "Abbreviation": "YAGNI",
     "Definition": "You Ain't Gonna Need It",
     "Usage": "",
-    "Example": ""
+    "Example": "<a href=\"https://github.com/techexcellenceio/community/discussions/26\">Tech Excellence</a>"
   },
   {
     "Abbreviation": "YMMV",
     "Definition": "Your Mileage May Vary",
     "Usage": "",
-    "Example": ""
+    "Example": "<a href=\"https://github.com/openai/whisper/discussions/50#discussioncomment-3713986\">Whisper</a>"
   }
 ]
