@@ -48,6 +48,12 @@
     "Example": "<a href=\"https://wikicfp.com/\">Wiki for Calls For Papers</a>"
   },
   {
+    "Abbreviation": "CJK",
+    "Definition": "Chinese-Japanese-Korean",
+    "Usage": "Usually used in the context of localization or internationalization, because all of them include Chinese characters and derivatives in their writing systems. Often included are Hànzì in Chinese, Kanji and Kana in Japanese and Hanja and Hangul in Korean.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/CJK_characters\">Wikipedia page for CJK characters</a>, <a href=\"https://github.com/purefun/remark-join-cjk-lines\">a remark plugin to remove extra space between CJK Characters</a>"
+  },
+  {
     "Abbreviation": "CLA",
     "Definition": "Contributor License Agreement",
     "Usage": "",
