@@ -6,6 +6,12 @@
     "Example": "<a href=\"https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977\">Humanizer</a>, <a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
   },
   {
+    "Abbreviation": "ADR",
+    "Definition": "Architectural Decision Record",
+    "Usage": "",
+    "Example": "https://adr.github.io/"
+  },
+  {
     "Abbreviation": "AFAICT",
     "Definition": "As Far As I Can Tell",
     "Usage": "",
@@ -18,6 +24,12 @@
     "Example": "<a href=\"https://github.com/d-edge/Diffract/issues/1#issuecomment-946781621\">Diffract</a>"
   },
   {
+    "Abbreviation": "AKM",
+    "Definition": "Architectural Knowledge Management",
+    "Usage": "Architectural Decisions, Architectural Decision Records, and Architecturally Significant Requirements all fall under the umbrella of Architectural Knowledge Management",
+    "Example": ""
+  },
+  {
     "Abbreviation": "AOA",
     "Definition": "Analysis of Alternatives",
     "Usage": "",
@@ -28,6 +40,12 @@
     "Definition": "As Soon As Possible",
     "Usage": "It is an informal way to say that who wrote it is busy at the moment and will reply as soon as he can.",
     "Example": "<a href=\"https://www.britannica.com/dictionary/ASAP\">Britannica</a>"
+  },
+  {
+    "Abbreviation": "ASR",
+    "Definition": "Architecturally Significant Requirements",
+    "Usage": "",
+    "Example": "https://en.wikipedia.org/wiki/Architecturally_significant_requirements"
   },
   {
     "Abbreviation": "BBL",
