@@ -204,6 +204,12 @@
     "Example": ""
   },
   {
+    "Abbreviation": "KBD",
+    "Definition": "Keyboard",
+    "Usage": "",
+    "Example": "https://github.com/zestedesavoir/zmarkdown/tree/HEAD/packages/remark-kbd#readme"
+  },
+  {
     "Abbreviation": "KISS",
     "Definition": "Keep It Simple, Stupid",
     "Usage": "KISS is a design principle stating that most systems work fine if it is built/kept simple than making the system complex.",
