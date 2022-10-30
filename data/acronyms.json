@@ -89,6 +89,13 @@
     "Usage": "Agree with the idea and overall direction, but haven't reviewed the code changes or tested them",
     "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
   },
+
+  {
+    "Abbreviation": "DAE",
+    "Definition": "Does Anyone Else",
+    "Usage": "DAE think this language is confusing?",
+    "Example": "https://www.reddit.com/r/ProgrammerHumor/comments/y6959z/comment/issuua9/?context=3"
+  },
   {
     "Abbreviation": "DevOps",
     "Definition": "Devlopment Operations",
