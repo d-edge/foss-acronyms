@@ -12,6 +12,12 @@
     "Example": "https://adr.github.io/"
   },
   {
+    "Abbreviation": "AD",
+    "Definition": "Architectural Decision",
+    "Usage": "",
+    "Example": "https://en.wikipedia.org/wiki/Architectural_decision"
+  },
+  {
     "Abbreviation": "AFAICT",
     "Definition": "As Far As I Can Tell",
     "Usage": "",
@@ -28,6 +34,12 @@
     "Definition": "Architectural Knowledge Management",
     "Usage": "Architectural Decisions, Architectural Decision Records, and Architecturally Significant Requirements all fall under the umbrella of Architectural Knowledge Management",
     "Example": ""
+  },
+  {
+    "Abbreviation": "AFK",
+    "Definition": "Away From Keyboard",
+    "Usage": "I'm going afk, dinner's ready.",
+    "Example": "<a href=\"https://dictionary.cambridge.org/dictionary/english/afk\">Cambridge Dictionary</a>"
   },
   {
     "Abbreviation": "AOA",
@@ -66,6 +78,12 @@
     "Example": "<a href=\"https://wikicfp.com/\">Wiki for Calls For Papers</a>"
   },
   {
+    "Abbreviation": "CJK",
+    "Definition": "Chinese-Japanese-Korean",
+    "Usage": "Usually used in the context of localization or internationalization, because all of them include Chinese characters and derivatives in their writing systems. Often included are Hànzì in Chinese, Kanji and Kana in Japanese and Hanja and Hangul in Korean.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/CJK_characters\">Wikipedia page for CJK characters</a>, <a href=\"https://github.com/purefun/remark-join-cjk-lines\">a remark plugin to remove extra space between CJK Characters</a>"
+  },
+  {
     "Abbreviation": "CLA",
     "Definition": "Contributor License Agreement",
     "Usage": "",
@@ -94,6 +112,13 @@
     "Definition": "Concept ACKnowledgement",
     "Usage": "Agree with the idea and overall direction, but haven't reviewed the code changes or tested them",
     "Example": "<a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
+  },
+
+  {
+    "Abbreviation": "DAE",
+    "Definition": "Does Anyone Else",
+    "Usage": "DAE think this language is confusing?",
+    "Example": "https://www.reddit.com/r/ProgrammerHumor/comments/y6959z/comment/issuua9/?context=3"
   },
   {
     "Abbreviation": "DevOps",
@@ -220,6 +245,12 @@
     "Definition": "In This Thread",
     "Usage": "",
     "Example": ""
+  },
+  {
+    "Abbreviation": "KBD",
+    "Definition": "Keyboard",
+    "Usage": "",
+    "Example": "https://github.com/zestedesavoir/zmarkdown/tree/HEAD/packages/remark-kbd#readme"
   },
   {
     "Abbreviation": "KISS",
