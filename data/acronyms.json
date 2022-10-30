@@ -6,6 +6,12 @@
     "Example": "<a href=\"https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977\">Humanizer</a>, <a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
   },
   {
+    "Abbreviation": "AD",
+    "Definition": "Architectural Decision",
+    "Usage": "",
+    "Example": "https://en.wikipedia.org/wiki/Architectural_decision"
+  },
+  {
     "Abbreviation": "AFAICT",
     "Definition": "As Far As I Can Tell",
     "Usage": "",
