@@ -214,7 +214,7 @@
       "Abbreviation": "GATs",
       "Definition": "Generic Associated Types",
       "Usage": "they allow you to define type, lifetime, or const generics on associated types",
-      "Example": "<a href=\https://old.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5\">Reddit</a>, <a href=\"https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html\">rust-lang</a>"
+      "Example": "<a href=\"https://old.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5\">Reddit</a>, <a href=\"https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html\">rust-lang</a>"
     
   },
   {
