@@ -258,6 +258,12 @@
     "Usage": "KISS is a design principle stating that most systems work fine if it is built/kept simple than making the system complex.",
     "Example": "<a href=\"https://en.wikipedia.org/wiki/KISS_principle#:~:text=KISS%2C%20an%20acronym%20for%20keep,unnecessary%20complexity%20should%20be%20avoided.\">Wikipedia</a>"
   },
+   {
+    "Abbreviation": "KPI",
+    "Definition": "Key Performance Indicator",
+    "Usage": "KPI is a type of performance indicator, which measures the success of an organisation or an activity.",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Performance_indicator\">Wikipedia</a>"
+  },
   {
     "Abbreviation": "LGTM",
     "Definition": "Looks Good To Me",
